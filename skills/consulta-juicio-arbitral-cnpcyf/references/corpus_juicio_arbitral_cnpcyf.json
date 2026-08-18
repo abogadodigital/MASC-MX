@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "titulo": "Código Nacional de Procedimientos Civiles y Familiares (CNPCyF) — Sección Tercera del Libro Tercero (Preparación del Juicio Arbitral) y Título Tercero (Del Juicio Arbitral)",
+    "fuente": "Diario Oficial de la Federación (DOF)",
+    "secciones_incluidas": {
+      "seccion_tercera_preparacion": "Título Primero, Capítulo I, Sección Tercera - De la Preparación del Juicio Arbitral (arts. 386-390)",
+      "titulo_tercero_cap_i": "Título Tercero, Capítulo I - Disposiciones Generales del Juicio Arbitral (arts. 533-545)",
+      "titulo_tercero_cap_ii": "Título Tercero, Capítulo II - De la Ejecución de Laudos (arts. 546-549)"
+    },
+    "total_articulos": 22,
+    "nota_alcance": "Este corpus regula dos momentos distintos: (1) la preparación del juicio arbitral ante la autoridad jurisdiccional (arts. 386-390), es decir, el procedimiento para que un juez designe árbitro cuando existe cláusula de arbitraje en un contrato o instrumento público y no se ha nombrado árbitro, o éste se rehusó, falleció o no hay sustituto; y (2) el juicio arbitral en materia civil y familiar propiamente dicho (arts. 533-549): disposiciones generales (quiénes pueden comprometer en árbitros, negocios que NO pueden someterse a arbitraje conforme al art. 540 -alimentos, guarda y custodia, divorcios salvo excepciones, nulidad de matrimonio, estado civil-, remisión al arbitraje y litispendencia) y la ejecución de laudos ante la autoridad jurisdiccional, incluidas las causales tasadas del art. 549 para negar la ejecución.",
+    "relacion_con_ley_general_masc_y_ccom": "El artículo 1 de la LGMASC dispone que, en todo lo no previsto por esa ley, será aplicable el Código Nacional de Procedimientos Civiles y Familiares. Este corpus es también la ley aplicable al arbitraje que NO tenga naturaleza mercantil (civil o familiar, con las exclusiones tasadas del art. 540); el arbitraje mercantil se rige por el Código de Comercio (ver corpus_arbitraje_comercial_ccom.json). Además, la ejecución de laudos ante autoridad jurisdiccional (Cap. II del Título Tercero) puede operar como marco de apoyo judicial general cuando el Código de Comercio no contenga una regla propia sobre el punto.",
+    "relacion_con_otros_corpus": "Ver también corpus_lgmasc_marco_institucional.json, corpus_arbitraje_comercial_ccom.json y corpus_tesis_masc.json."
+  },
+  "articulos": [
+    {
+      "numero": 386,
+      "titulo_nombre": "Título Primero - De los Actos Prejudiciales en Materia Civil",
+      "capitulo_nombre": "Capítulo I - De los Medios Preparatorios del Juicio en General",
+      "seccion_nombre": "Sección Tercera - De la Preparación del Juicio Arbitral",
+      "texto_intro": "Cuando en un contrato o instrumento público se haya establecido cláusula de arbitraje y no se haya nombrado árbitro, éste se rehusare o falleciere y no exista sustituto, cualquiera de las partes contratantes podrá acudir ante la autoridad jurisdiccional para que se designe uno a través de un medio preparatorio.",
+      "fracciones": [],
+      "texto_completo": "Artículo 386. Cuando en un contrato o instrumento público se haya establecido cláusula de arbitraje y no se haya nombrado árbitro, éste se rehusare o falleciere y no exista sustituto, cualquiera de las partes contratantes podrá acudir ante la autoridad jurisdiccional para que se designe uno a través de un medio preparatorio."
+    },
+    {
+      "numero": 387,
+      "titulo_nombre": "Título Primero - De los Actos Prejudiciales en Materia Civil",
+      "capitulo_nombre": "Capítulo I - De los Medios Preparatorios del Juicio en General",
+      "seccion_nombre": "Sección Tercera - De la Preparación del Juicio Arbitral",
+      "texto_intro": "Presentándose por cualquiera de los interesados el documento firmado ya sea de manera electrónica o autógrafa, en el que se contiene la cláusula compromisoria, la autoridad jurisdiccional citará a una audiencia dentro del quinto día para que se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.",
+      "fracciones": [],
+      "texto_completo": "Artículo 387. Presentándose por cualquiera de los interesados el documento firmado ya sea de manera electrónica o autógrafa, en el que se contiene la cláusula compromisoria, la autoridad jurisdiccional citará a una audiencia dentro del quinto día para que se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía."
+    },
+    {
+      "numero": 388,
+      "titulo_nombre": "Título Primero - De los Actos Prejudiciales en Materia Civil",
+      "capitulo_nombre": "Capítulo I - De los Medios Preparatorios del Juicio en General",
+      "seccion_nombre": "Sección Tercera - De la Preparación del Juicio Arbitral",
+      "texto_intro": "Si la cláusula compromisoria forma parte de documento privado, al emplazar a la otra parte a la audiencia a que se refiere el artículo anterior, la persona secretaria judicial la requerirá previamente para que reconozca o no la firma autógrafa o electrónica del documento, y si se rehusare a contestar, se tendrá por reconocida.",
+      "fracciones": [],
+      "texto_completo": "Artículo 388. Si la cláusula compromisoria forma parte de documento privado, al emplazar a la otra parte a la audiencia a que se refiere el artículo anterior, la persona secretaria judicial la requerirá previamente para que reconozca o no la firma autógrafa o electrónica del documento, y si se rehusare a contestar, se tendrá por reconocida."
+    },
+    {
+      "numero": 389,
+      "titulo_nombre": "Título Primero - De los Actos Prejudiciales en Materia Civil",
+      "capitulo_nombre": "Capítulo I - De los Medios Preparatorios del Juicio en General",
+      "seccion_nombre": "Sección Tercera - De la Preparación del Juicio Arbitral",
+      "texto_intro": "En la audiencia, la autoridad jurisdiccional exhortará a que elijan árbitro de común acuerdo, y en caso de no conseguirlo, designará uno entre las personas que aparezcan en las listas oficiales del Poder Judicial de la Federación o de las Entidades Federativas; también podrá consultar a instituciones arbitrales, colegios de corredores o notarios públicos debidamente certificados para tal fin. Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare o fallezca y no hubiere sustituto designado.",
+      "fracciones": [],
+      "texto_completo": "Artículo 389. En la audiencia, la autoridad jurisdiccional exhortará a que elijan árbitro de común acuerdo, y en caso de no conseguirlo, designará uno entre las personas que aparezcan en las listas oficiales del Poder Judicial de la Federación o de las Entidades Federativas; también podrá consultar a instituciones arbitrales, colegios de corredores o notarios públicos debidamente certificados para tal fin. Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare o fallezca y no hubiere sustituto designado."
+    },
+    {
+      "numero": 390,
+      "titulo_nombre": "Título Primero - De los Actos Prejudiciales en Materia Civil",
+      "capitulo_nombre": "Capítulo I - De los Medios Preparatorios del Juicio en General",
+      "seccion_nombre": "Sección Tercera - De la Preparación del Juicio Arbitral",
+      "texto_intro": "Habiéndose nombrado árbitro, se levantará acta de la audiencia, a través de la cual se iniciarán las actuaciones de este, emplazando a las partes como se determina en las reglas generales del juicio arbitral.",
+      "fracciones": [],
+      "texto_completo": "Artículo 390. Habiéndose nombrado árbitro, se levantará acta de la audiencia, a través de la cual se iniciarán las actuaciones de este, emplazando a las partes como se determina en las reglas generales del juicio arbitral."
+    },
+    {
+      "numero": 533,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "Las partes tienen el derecho de someter sus controversias al juicio arbitral.",
+      "fracciones": [],
+      "texto_completo": "Artículo 533. Las partes tienen el derecho de someter sus controversias al juicio arbitral."
+    },
+    {
+      "numero": 534,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "El acuerdo de arbitraje puede celebrarse previo a que inicie un procedimiento jurisdiccional, durante éste una vez iniciado y hasta antes de dictada la sentencia definitiva. En caso de que las partes decidan someterse a un juicio arbitral una vez iniciado un procedimiento jurisdiccional, la autoridad jurisdiccional las remitirá al arbitraje, dando por concluida la instancia, a menos, que se compruebe que el acuerdo es nulo, ineficaz o de ejecución imposible. Lo actuado en el procedimiento jurisdiccional carecerá de validez para el juicio arbitral, salvo que las partes de común acuerdo convinieren lo contrario.",
+      "fracciones": [],
+      "texto_completo": "Artículo 534. El acuerdo de arbitraje puede celebrarse previo a que inicie un procedimiento jurisdiccional, durante éste una vez iniciado y hasta antes de dictada la sentencia definitiva. En caso de que las partes decidan someterse a un juicio arbitral una vez iniciado un procedimiento jurisdiccional, la autoridad jurisdiccional las remitirá al arbitraje, dando por concluida la instancia, a menos, que se compruebe que el acuerdo es nulo, ineficaz o de ejecución imposible. Lo actuado en el procedimiento jurisdiccional carecerá de validez para el juicio arbitral, salvo que las partes de común acuerdo convinieren lo contrario."
+    },
+    {
+      "numero": 535,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "El acuerdo de arbitraje es un convenio, por el que las partes deciden someter a arbitraje todas o ciertas controversias que hayan surgido o puedan surgir entre ellas respecto de una determinada relación jurídica, contractual o no. El acuerdo de arbitraje podrá adoptar la forma de una cláusula compromisoria incluida en un contrato o la forma de un acuerdo independiente. En todos los casos el acuerdo deberá constar por escrito o por cualquier medio por el que se manifieste expresamente la voluntad de las partes que así lo convinieron.",
+      "fracciones": [],
+      "texto_completo": "Artículo 535. El acuerdo de arbitraje es un convenio, por el que las partes deciden someter a arbitraje todas o ciertas controversias que hayan surgido o puedan surgir entre ellas respecto de una determinada relación jurídica, contractual o no. El acuerdo de arbitraje podrá adoptar la forma de una cláusula compromisoria incluida en un contrato o la forma de un acuerdo independiente. En todos los casos el acuerdo deberá constar por escrito o por cualquier medio por el que se manifieste expresamente la voluntad de las partes que así lo convinieron."
+    },
+    {
+      "numero": 536,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "La referencia a un reglamento en el acuerdo de arbitraje, o en sus modificaciones, hará que se entiendan comprendidas en el mismo todas las disposiciones de que se trate.",
+      "fracciones": [],
+      "texto_completo": "Artículo 536. La referencia a un reglamento en el acuerdo de arbitraje, o en sus modificaciones, hará que se entiendan comprendidas en el mismo todas las disposiciones de que se trate."
+    },
+    {
+      "numero": 537,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "Quien esté en pleno ejercicio de sus derechos civiles, puede comprometer en árbitros sus negocios. Las personas tutoras no pueden comprometer los negocios de personas sobre quienes ejercen la tutela, ni nombrar árbitros, sino con aprobación judicial, a menos que éstas fueren personas herederas de quien celebró el acuerdo de arbitraje. Si no hubiere designación de árbitros, salvo pacto en contrario de las partes, se hará con intervención judicial, como está previsto en los medios preparatorios a juicio arbitral.",
+      "fracciones": [],
+      "texto_completo": "Artículo 537. Quien esté en pleno ejercicio de sus derechos civiles, puede comprometer en árbitros sus negocios. Las personas tutoras no pueden comprometer los negocios de personas sobre quienes ejercen la tutela, ni nombrar árbitros, sino con aprobación judicial, a menos que éstas fueren personas herederas de quien celebró el acuerdo de arbitraje. Si no hubiere designación de árbitros, salvo pacto en contrario de las partes, se hará con intervención judicial, como está previsto en los medios preparatorios a juicio arbitral."
+    },
+    {
+      "numero": 538,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "Los albaceas necesitan del consentimiento unánime de las personas herederas para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo que se tratara de cumplimentar los acuerdos de arbitraje pactados por el autor de la sucesión.",
+      "fracciones": [],
+      "texto_completo": "Artículo 538. Los albaceas necesitan del consentimiento unánime de las personas herederas para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo que se tratara de cumplimentar los acuerdos de arbitraje pactados por el autor de la sucesión."
+    },
+    {
+      "numero": 539,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "Quien funja como síndico de los concursos civiles, sólo puede comprometer en árbitros con el consentimiento unánime de las personas acreedoras.",
+      "fracciones": [],
+      "texto_completo": "Artículo 539. Quien funja como síndico de los concursos civiles, sólo puede comprometer en árbitros con el consentimiento unánime de las personas acreedoras."
+    },
+    {
+      "numero": 540,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "No se pueden comprometer en árbitros los siguientes negocios: I.El derecho de recibir alimentos, lo concerniente al régimen de convivencia, guarda y custodia y demás derechos de niñas, niños y adolescentes; II.Los divorcios, excepto la separación de bienes, la liquidación y disolución de la sociedad conyugal y las demás diferencias de naturaleza pecuniarias; III.Las acciones de nulidad de matrimonio; IV.Los concernientes al estado civil de las personas, con las excepciones contenidas en el Código Civil o Familiar de cada Entidad Federativa que así lo determine, y V.Los demás en los que lo prohíba expresamente la Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 540. No se pueden comprometer en árbitros los siguientes negocios: I.El derecho de recibir alimentos, lo concerniente al régimen de convivencia, guarda y custodia y demás derechos de niñas, niños y adolescentes; II.Los divorcios, excepto la separación de bienes, la liquidación y disolución de la sociedad conyugal y las demás diferencias de naturaleza pecuniarias; III.Las acciones de nulidad de matrimonio; IV.Los concernientes al estado civil de las personas, con las excepciones contenidas en el Código Civil o Familiar de cada Entidad Federativa que así lo determine, y V.Los demás en los que lo prohíba expresamente la Ley."
+    },
+    {
+      "numero": 541,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "La persona a quien se comunique su posible nombramiento como árbitro, deberá estar libre de conflicto de intereses con cualquiera de las partes, así mismo, será su obligación revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. Desde el momento de su nombramiento y durante todas las actuaciones arbitrales, revelará sin demora tales circunstancias a las partes. Sólo podrá ser recusado si existen circunstancias que den lugar a dudas justificadas respecto de su imparcialidad o independencia, o si no posee las cualidades convenidas por las partes. Una parte sólo podrá recusar al árbitro nombrado por ella o en cuyo nombramiento haya participado, por causas de las que tenga conocimiento después de efectuada la designación.",
+      "fracciones": [],
+      "texto_completo": "Artículo 541. La persona a quien se comunique su posible nombramiento como árbitro, deberá estar libre de conflicto de intereses con cualquiera de las partes, así mismo, será su obligación revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. Desde el momento de su nombramiento y durante todas las actuaciones arbitrales, revelará sin demora tales circunstancias a las partes. Sólo podrá ser recusado si existen circunstancias que den lugar a dudas justificadas respecto de su imparcialidad o independencia, o si no posee las cualidades convenidas por las partes. Una parte sólo podrá recusar al árbitro nombrado por ella o en cuyo nombramiento haya participado, por causas de las que tenga conocimiento después de efectuada la designación."
+    },
+    {
+      "numero": 542,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "Deberá tratarse a las partes con igualdad y darse a cada una plena oportunidad de hacer valer sus derechos. Con sujeción a las disposiciones del presente Título, las partes tendrán libertad para convenir las reglas del procedimiento a que se haya de ajustar el árbitro en sus actuaciones, a menos de que se trate de un arbitraje institucionalizado. A falta de acuerdo sobre las reglas y siempre que no se trate de un arbitraje institucionalizado, se aplicarán las disposiciones del Reglamento de Arbitraje de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional. En ausencia de acuerdo y de disposición expresa en el reglamento respectivo, se aplicará lo dispuesto en el presente Título. En todo momento, el árbitro podrá, con sujeción a lo dispuesto en el presente Código Nacional, dirigir el procedimiento del modo que considere apropiado con el objeto de resolver la controversia planteada. Esta facultad conferida incluye de manera enunciativa, determinar la admisibilidad, la pertinencia y el valor de las pruebas.",
+      "fracciones": [],
+      "texto_completo": "Artículo 542. Deberá tratarse a las partes con igualdad y darse a cada una plena oportunidad de hacer valer sus derechos. Con sujeción a las disposiciones del presente Título, las partes tendrán libertad para convenir las reglas del procedimiento a que se haya de ajustar el árbitro en sus actuaciones, a menos de que se trate de un arbitraje institucionalizado. A falta de acuerdo sobre las reglas y siempre que no se trate de un arbitraje institucionalizado, se aplicarán las disposiciones del Reglamento de Arbitraje de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional. En ausencia de acuerdo y de disposición expresa en el reglamento respectivo, se aplicará lo dispuesto en el presente Título. En todo momento, el árbitro podrá, con sujeción a lo dispuesto en el presente Código Nacional, dirigir el procedimiento del modo que considere apropiado con el objeto de resolver la controversia planteada. Esta facultad conferida incluye de manera enunciativa, determinar la admisibilidad, la pertinencia y el valor de las pruebas."
+    },
+    {
+      "numero": 543,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "El acuerdo de arbitraje produce las excepciones de remisión al arbitraje y litispendencia, si durante el procedimiento se promueve el negocio en un órgano jurisdiccional ordinario. La excepción de remisión al arbitraje debe tramitarse en la vía incidental. Sólo se denegará la remisión al arbitraje: I.Si en el desahogo de la vista dada con la excepción de remisión al arbitraje se demuestra por medio de resolución firme, sea en forma de sentencia o laudo arbitral, que se declaró la nulidad del acuerdo de arbitraje, o II.Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitraje son notorias desde el desahogo de la vista dada con la solicitud de remisión al arbitraje. Al tomar esta determinación la autoridad jurisdiccional deberá observar un criterio estricto y razonable.",
+      "fracciones": [],
+      "texto_completo": "Artículo 543. El acuerdo de arbitraje produce las excepciones de remisión al arbitraje y litispendencia, si durante el procedimiento se promueve el negocio en un órgano jurisdiccional ordinario. La excepción de remisión al arbitraje debe tramitarse en la vía incidental. Sólo se denegará la remisión al arbitraje: I.Si en el desahogo de la vista dada con la excepción de remisión al arbitraje se demuestra por medio de resolución firme, sea en forma de sentencia o laudo arbitral, que se declaró la nulidad del acuerdo de arbitraje, o II.Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitraje son notorias desde el desahogo de la vista dada con la solicitud de remisión al arbitraje. Al tomar esta determinación la autoridad jurisdiccional deberá observar un criterio estricto y razonable."
+    },
+    {
+      "numero": 544,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "El tribunal arbitral resolverá la controversia según las normas de derecho que las partes hayan convenido. Si las partes no indicaren la Ley que debe regir el fondo del litigio, el tribunal arbitral, tomando en cuenta las características y conexiones del caso, determinará el derecho aplicable. Decidirá como amigable componedor o en conciencia, sólo si las partes lo han autorizado expresamente para hacerlo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 544. El tribunal arbitral resolverá la controversia según las normas de derecho que las partes hayan convenido. Si las partes no indicaren la Ley que debe regir el fondo del litigio, el tribunal arbitral, tomando en cuenta las características y conexiones del caso, determinará el derecho aplicable. Decidirá como amigable componedor o en conciencia, sólo si las partes lo han autorizado expresamente para hacerlo."
+    },
+    {
+      "numero": 545,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo I - Disposiciones Generales",
+      "seccion_nombre": null,
+      "texto_intro": "El tribunal arbitral puede condenar en costas, daños y perjuicios, pero para emplear medidas de apremio debe acudir a la autoridad jurisdiccional.",
+      "fracciones": [],
+      "texto_completo": "Artículo 545. El tribunal arbitral puede condenar en costas, daños y perjuicios, pero para emplear medidas de apremio debe acudir a la autoridad jurisdiccional."
+    },
+    {
+      "numero": 546,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo II - De la Ejecución de Laudos",
+      "seccion_nombre": null,
+      "texto_intro": "Notificado el laudo, cualquier parte podrá presentarlo a la autoridad jurisdiccional para su ejecución, a no ser que las partes ejercieren una acción de nulidad dentro de los siguientes tres meses a la notificación del laudo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 546. Notificado el laudo, cualquier parte podrá presentarlo a la autoridad jurisdiccional para su ejecución, a no ser que las partes ejercieren una acción de nulidad dentro de los siguientes tres meses a la notificación del laudo."
+    },
+    {
+      "numero": 547,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo II - De la Ejecución de Laudos",
+      "seccion_nombre": null,
+      "texto_intro": "La autoridad jurisdiccional que esté en turno y que corresponda a la competencia judicial del lugar del arbitraje, o bien, el de la ubicación de los bienes para el caso de ejecución, es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de autos, decretos, órdenes y laudos.",
+      "fracciones": [],
+      "texto_completo": "Artículo 547. La autoridad jurisdiccional que esté en turno y que corresponda a la competencia judicial del lugar del arbitraje, o bien, el de la ubicación de los bienes para el caso de ejecución, es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de autos, decretos, órdenes y laudos."
+    },
+    {
+      "numero": 548,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo II - De la Ejecución de Laudos",
+      "seccion_nombre": null,
+      "texto_intro": "La autoridad jurisdiccional está obligada a impartir el auxilio de su jurisdicción al tribunal arbitral.",
+      "fracciones": [],
+      "texto_completo": "Artículo 548. La autoridad jurisdiccional está obligada a impartir el auxilio de su jurisdicción al tribunal arbitral."
+    },
+    {
+      "numero": 549,
+      "titulo_nombre": "Título Tercero - Del Juicio Arbitral",
+      "capitulo_nombre": "Capítulo II - De la Ejecución de Laudos",
+      "seccion_nombre": null,
+      "texto_intro": "Contra el laudo arbitral no procede recurso alguno. Contra la ejecución sólo serán posibles las siguientes excepciones que deberá probar la parte contra la cual se invoca el laudo: I.Una de las partes en el acuerdo de arbitraje estaba afectada por alguna incapacidad jurídica, o que dicho acuerdo no es válido en virtud de la Ley a que las partes lo han sometido, o si nada se hubiere indicado a este respecto, en virtud de las disposiciones de este Código Nacional; II.No fue debidamente notificada de la designación del árbitro o de las actuaciones arbitrales, o no hubiere podido, por cualquier otra razón ajena al ejecutado, hacer valer sus derechos; III.El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, se podrá dar reconocimiento y ejecución a las primeras; IV.La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes o, en defecto de tal acuerdo, que no se ajustaron a la Ley del país donde se efectuó el arbitraje, o V.El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por la autoridad jurisdiccional del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo. En todos los casos, la autoridad jurisdiccional verificará de oficio que, el objeto de la controversia que se pretende ejecutar sea susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo no sean contrarios al orden público.",
+      "fracciones": [],
+      "texto_completo": "Artículo 549. Contra el laudo arbitral no procede recurso alguno. Contra la ejecución sólo serán posibles las siguientes excepciones que deberá probar la parte contra la cual se invoca el laudo: I.Una de las partes en el acuerdo de arbitraje estaba afectada por alguna incapacidad jurídica, o que dicho acuerdo no es válido en virtud de la Ley a que las partes lo han sometido, o si nada se hubiere indicado a este respecto, en virtud de las disposiciones de este Código Nacional; II.No fue debidamente notificada de la designación del árbitro o de las actuaciones arbitrales, o no hubiere podido, por cualquier otra razón ajena al ejecutado, hacer valer sus derechos; III.El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, se podrá dar reconocimiento y ejecución a las primeras; IV.La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes o, en defecto de tal acuerdo, que no se ajustaron a la Ley del país donde se efectuó el arbitraje, o V.El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por la autoridad jurisdiccional del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo. En todos los casos, la autoridad jurisdiccional verificará de oficio que, el objeto de la controversia que se pretende ejecutar sea susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo no sean contrarios al orden público."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "masc-mx",
+  "owner": {
+    "name": "Joel A. Gómez Treviño",
+    "url": "https://github.com/abogadodigital"
+  },
+  "plugins": [
+    {
+      "name": "masc-mx",
+      "source": "./",
+      "description": "Plugin de mecanismos alternativos de solución de controversias (MASC) y arbitraje en México: LGMASC, Código de Comercio (arbitraje comercial), CNPCyF (juicio arbitral civil y familiar), 78 tesis de la SCJN, identificación de ley aplicable, tramitación, redacción, análisis de riesgo, entrenamiento estratégico y material docente.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Joel A. Gómez Treviño"
+      },
+      "license": "CC-BY-NC-SA-4.0"
+    }
+  ]
+}

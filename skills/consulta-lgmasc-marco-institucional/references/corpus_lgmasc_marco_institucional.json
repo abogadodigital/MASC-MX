@@ -1,0 +1,558 @@
+{
+  "metadata": {
+    "titulo": "Ley General de Mecanismos Alternativos de Solución de Controversias (LGMASC)",
+    "fuente": "Diario Oficial de la Federación (DOF)",
+    "capitulos_incluidos": {
+      "I": "Naturaleza y Objeto (arts. 1-8)",
+      "II": "De la Competencia (arts. 9-29)",
+      "III": "De las Personas Facilitadoras y su Certificación (arts. 30-48)",
+      "IV": "De los Registros y la Plataforma Nacional (arts. 49-56)",
+      "V": "De las Partes (arts. 57-60)"
+    },
+    "total_articulos": 60,
+    "nota_alcance": "Este corpus cubre el marco institucional de la LGMASC: naturaleza y objeto de la ley, distribución de competencias entre la Federación y las entidades federativas, el régimen de personas facilitadoras públicas y privadas y su certificación, los registros y la Plataforma Nacional de MASC, y las reglas generales sobre las partes. La LGMASC define, en su artículo 4, fracción V, al arbitraje como uno de los MASC, pero remite expresamente su regulación sustantiva y procedimental al Código de Comercio y al Código Nacional de Procedimientos Civiles y Familiares — este corpus NO regula el procedimiento arbitral en sí (ver corpus_arbitraje_comercial_ccom.json y corpus_juicio_arbitral_cnpcyf.json).",
+    "relacion_con_otros_corpus": "Complementario de corpus_lgmasc_operacion_sanciones.json (Cap. VI-IX de la misma ley), corpus_arbitraje_comercial_ccom.json, corpus_juicio_arbitral_cnpcyf.json y corpus_tesis_masc.json."
+  },
+  "articulos": [
+    {
+      "numero": 1,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "La presente Ley es de orden público, interés social y observancia general en todo el territorio nacional. Tiene por objeto establecer las bases, principios generales y distribución de competencias en materia de mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en los artículos 17 y 73 fracción XXIX-A, de la Constitución Política de los Estados Unidos Mexicanos. En todo lo no previsto por esta Ley, será aplicable el Código Nacional de Procedimientos Civiles y Familiares.",
+      "fracciones": [],
+      "texto_completo": "Artículo 1. La presente Ley es de orden público, interés social y observancia general en todo el territorio nacional. Tiene por objeto establecer las bases, principios generales y distribución de competencias en materia de mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en los artículos 17 y 73 fracción XXIX-A, de la Constitución Política de los Estados Unidos Mexicanos. En todo lo no previsto por esta Ley, será aplicable el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "numero": 2,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Los mecanismos alternativos de solución de controversias que prevé esta Ley son aplicables por conducto de personas facilitadoras en el ámbito público o privado, así como personas abogadas colaborativas, certificadas para dichos efectos por los Poderes Judiciales Federal o de las entidades federativas, así como en los Tribunales de Justicia Administrativa federal y locales, en sus respectivos ámbitos de competencia.",
+      "fracciones": [],
+      "texto_completo": "Artículo 2. Los mecanismos alternativos de solución de controversias que prevé esta Ley son aplicables por conducto de personas facilitadoras en el ámbito público o privado, así como personas abogadas colaborativas, certificadas para dichos efectos por los Poderes Judiciales Federal o de las entidades federativas, así como en los Tribunales de Justicia Administrativa federal y locales, en sus respectivos ámbitos de competencia."
+    },
+    {
+      "numero": 3,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Los mecanismos alternativos de solución de controversias, previstos en esta Ley, así como en las leyes locales o federales que correspondan, podrán tramitarse mediante el uso de tecnologías de la información y comunicación o sistemas en línea, conforme a lo establecido en la presente Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 3. Los mecanismos alternativos de solución de controversias, previstos en esta Ley, así como en las leyes locales o federales que correspondan, podrán tramitarse mediante el uso de tecnologías de la información y comunicación o sistemas en línea, conforme a lo establecido en la presente Ley."
+    },
+    {
+      "numero": 4,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Son mecanismos alternativos de solución de controversias, de manera enunciativa y no limitativa, los siguientes: I.Negociación. Es el proceso por virtud del cual las partes, por sí mismas con o sin intermediarios, plantean soluciones a través del diálogo, con el fin de resolver una controversia o conflicto; II.Negociación Colaborativa. Es el proceso por el cual las partes buscan la solución pacífica y equitativa de su conflicto, con la asesoría de personas abogadas colaborativas, a través del diálogo y si fuera necesario, el apoyo de terceros; III.Mediación. Procedimiento voluntario mediante el cual las partes acuerdan resolver una controversia o conflicto en forma parcial o total, de manera pacífica, o prevenir uno futuro, con la asistencia de una persona tercera imparcial denominada persona facilitadora. Se entenderá que existe Comediación cuando participen dos o más personas facilitadoras; IV.Conciliación. Procedimiento voluntario por el cual las partes involucradas en una controversia o conflicto acuerdan resolver en forma parcial o total, de manera pacífica, o prevenir uno futuro, con la asistencia y participación activa de una persona facilitadora, y V.Arbitraje. Proceso de solución de controversias o conflictos distinto a la jurisdicción estatal, mediante el cual las partes deciden voluntariamente, a través de un acuerdo o cláusula arbitral, someter todas o ciertas diferencias que hayan surgido o puedan surgir entre ellas, respecto de una determinada relación jurídica, con la participación de una persona tercera llamada árbitro quien dicta un laudo conforme a las normas establecidas en el Código de Comercio, el Código Nacional de Procedimientos Civiles y Familiares, y los Tratados Internacionales de los que el Estado mexicano sea parte, según proceda.",
+      "fracciones": [],
+      "texto_completo": "Artículo 4. Son mecanismos alternativos de solución de controversias, de manera enunciativa y no limitativa, los siguientes: I.Negociación. Es el proceso por virtud del cual las partes, por sí mismas con o sin intermediarios, plantean soluciones a través del diálogo, con el fin de resolver una controversia o conflicto; II.Negociación Colaborativa. Es el proceso por el cual las partes buscan la solución pacífica y equitativa de su conflicto, con la asesoría de personas abogadas colaborativas, a través del diálogo y si fuera necesario, el apoyo de terceros; III.Mediación. Procedimiento voluntario mediante el cual las partes acuerdan resolver una controversia o conflicto en forma parcial o total, de manera pacífica, o prevenir uno futuro, con la asistencia de una persona tercera imparcial denominada persona facilitadora. Se entenderá que existe Comediación cuando participen dos o más personas facilitadoras; IV.Conciliación. Procedimiento voluntario por el cual las partes involucradas en una controversia o conflicto acuerdan resolver en forma parcial o total, de manera pacífica, o prevenir uno futuro, con la asistencia y participación activa de una persona facilitadora, y V.Arbitraje. Proceso de solución de controversias o conflictos distinto a la jurisdicción estatal, mediante el cual las partes deciden voluntariamente, a través de un acuerdo o cláusula arbitral, someter todas o ciertas diferencias que hayan surgido o puedan surgir entre ellas, respecto de una determinada relación jurídica, con la participación de una persona tercera llamada árbitro quien dicta un laudo conforme a las normas establecidas en el Código de Comercio, el Código Nacional de Procedimientos Civiles y Familiares, y los Tratados Internacionales de los que el Estado mexicano sea parte, según proceda."
+    },
+    {
+      "numero": 5,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Para efectos de esta Ley, se entenderá por: I.Acciones preventivas. Son obligaciones de dar, hacer o no hacer, solicitadas por algunas de las partes y acordadas conjuntamente ante la persona facilitadora o persona abogada colaborativa, desde el inicio del procedimiento hasta la eventual celebración del convenio; II.Centro Público de Mecanismos Alternativos de Solución de Controversias. Los órganos del Poder Judicial de la Federación o de los Poderes Judiciales de las entidades federativas, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia; III.Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa. Los órganos especializados de los Tribunales de Justicia Administrativa federal y locales, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia; IV.Centro Privado de Mecanismos Alternativos de Solución de Controversias. La sede para la atención de los mecanismos alternativos de solución de controversias, a cargo de personas facilitadoras privadas, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia; V.Certificación. Documento mediante el cual se hace constar la autorización de las personas facilitadoras públicas o privadas, así como de las personas abogadas colaborativas, para su intervención en los mecanismos alternativos de solución de controversias, otorgada por los Poderes Judiciales Federal o de las entidades federativas; así como en los Tribunales de Justicia Administrativa federal y locales; VI.Consejo. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias; VII.Consejo de Justicia Administrativa. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa, de conformidad con lo dispuesto en el Capítulo VIII de esta Ley; VIII.Consentimiento informado. Es el acuerdo en el que se plasma la manifestación de la voluntad de las partes respecto de su participación en los mecanismos alternativos de solución de controversias; IX.Convenio. Documento físico o electrónico en el que se hacen constar los acuerdos de las partes en los mecanismos alternativos de solución de controversias que ponen fin parcial o totalmente a las mismas o previenen las futuras; X.Ley. Ley General de Mecanismos Alternativos de Solución de Controversias; XI.Mecanismos Alternativos de Solución de Controversias. Procedimientos no jurisdiccionales cuyo objeto consiste en propiciar la avenencia entre las partes de manera voluntaria, pacífica y benéfica para ambas, a través de concesiones recíprocas, en una controversia o conflicto presente o futura; XII.Partes. Personas físicas o morales que, voluntariamente y de manera individual o colectiva, deciden prevenir o resolver una controversia o conflicto, a través de alguno de los mecanismos alternativos de solución de controversias previstos en esta Ley y demás que resulten aplicables en los respectivos ámbitos de competencia; XIII.Persona Abogada Colaborativa. Es aquella persona que cuenta con la patente para ejercer la profesión de derecho o abogacía, certificada en términos de esta Ley, que participa en conjunto con las partes mediante un proceso de negociación colaborativa con el fin de encontrar soluciones beneficiosas para las mismas; XIV.Persona Facilitadora. La persona física certificada, para el ejercicio público o privado, cuya función es propiciar la comunicación y avenencia para la solución de controversias entre las partes a través de los mecanismos alternativos de solución de controversias, previstos en esta Ley y demás que resulten aplicables; XV.Procesos de Justicia Restaurativa. Conjunto de sesiones, encuentros e intervenciones metodológicas, multidisciplinarias y especializadas enfocadas en gestionar el conflicto mediante el reconocimiento de su existencia y los daños que se generaron, así como la identificación de las necesidades de las partes, su momento de vida y sus mutuas responsabilidades, con la finalidad de adoptar y acordar el despliegue de conductas enfocadas en reparar los daños existentes y prevenir los futuros, bajo la expectativa de no repetición; XVI.Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto; XVII.Registro de Personas Facilitadoras. Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas; XVIII.Plataforma Nacional de Personas Facilitadoras. Resguardo electrónico a cargo del Consejo de la Judicatura Federal, que contiene los datos e información respecto del otorgamiento de certificación de las personas facilitadoras públicas y privadas en todo el territorio nacional, así como de las personas abogadas colaborativas; XIX.Sistemas en línea. Dispositivos electrónicos, programas informáticos, aplicaciones, herramientas tecnológicas, plataformas, protocolos, sistemas de justicia descentralizada, sistemas automatizados y demás tecnologías de la información y comunicación, utilizados para llevar a cabo la solución de controversias en línea; XX.Sistema de Convenios. Resguardo electrónico del registro de los convenios, a cargo del Centro Público de Mecanismos Alternativos de Solución de Controversias, de los Poderes Judiciales Federal o de las entidades federativas; XXI.Sistema Nacional de Información de Convenios. Resguardo electrónico de la información contenida en el Sistema de Convenios de los Poderes Judiciales Federal o de las entidades federativas, a cargo del Consejo de la Judicatura Federal; XXII.Solución de Controversias en Línea. Procedimiento no jurisdiccional para llevar a cabo electrónicamente los mecanismos alternativos de solución de controversias enlistados en el artículo 4 de esta Ley; los que utilicen sistemas automatizados y sistemas de justicia descentralizada; XXIII.Suscripción. Es la firma del convenio por las partes y la persona facilitadora, y XXIV.Tribunales de Justicia Administrativa. El Tribunal Federal de Justicia Administrativa y los Tribunales de Justicia Administrativa de las entidades federativas.",
+      "fracciones": [],
+      "texto_completo": "Artículo 5. Para efectos de esta Ley, se entenderá por: I.Acciones preventivas. Son obligaciones de dar, hacer o no hacer, solicitadas por algunas de las partes y acordadas conjuntamente ante la persona facilitadora o persona abogada colaborativa, desde el inicio del procedimiento hasta la eventual celebración del convenio; II.Centro Público de Mecanismos Alternativos de Solución de Controversias. Los órganos del Poder Judicial de la Federación o de los Poderes Judiciales de las entidades federativas, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia; III.Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa. Los órganos especializados de los Tribunales de Justicia Administrativa federal y locales, facultados para el ejercicio de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia; IV.Centro Privado de Mecanismos Alternativos de Solución de Controversias. La sede para la atención de los mecanismos alternativos de solución de controversias, a cargo de personas facilitadoras privadas, de conformidad con lo dispuesto en esta Ley y demás que resulten aplicables en sus respectivos ámbitos de competencia; V.Certificación. Documento mediante el cual se hace constar la autorización de las personas facilitadoras públicas o privadas, así como de las personas abogadas colaborativas, para su intervención en los mecanismos alternativos de solución de controversias, otorgada por los Poderes Judiciales Federal o de las entidades federativas; así como en los Tribunales de Justicia Administrativa federal y locales; VI.Consejo. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias; VII.Consejo de Justicia Administrativa. Consejo Nacional de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa, de conformidad con lo dispuesto en el Capítulo VIII de esta Ley; VIII.Consentimiento informado. Es el acuerdo en el que se plasma la manifestación de la voluntad de las partes respecto de su participación en los mecanismos alternativos de solución de controversias; IX.Convenio. Documento físico o electrónico en el que se hacen constar los acuerdos de las partes en los mecanismos alternativos de solución de controversias que ponen fin parcial o totalmente a las mismas o previenen las futuras; X.Ley. Ley General de Mecanismos Alternativos de Solución de Controversias; XI.Mecanismos Alternativos de Solución de Controversias. Procedimientos no jurisdiccionales cuyo objeto consiste en propiciar la avenencia entre las partes de manera voluntaria, pacífica y benéfica para ambas, a través de concesiones recíprocas, en una controversia o conflicto presente o futura; XII.Partes. Personas físicas o morales que, voluntariamente y de manera individual o colectiva, deciden prevenir o resolver una controversia o conflicto, a través de alguno de los mecanismos alternativos de solución de controversias previstos en esta Ley y demás que resulten aplicables en los respectivos ámbitos de competencia; XIII.Persona Abogada Colaborativa. Es aquella persona que cuenta con la patente para ejercer la profesión de derecho o abogacía, certificada en términos de esta Ley, que participa en conjunto con las partes mediante un proceso de negociación colaborativa con el fin de encontrar soluciones beneficiosas para las mismas; XIV.Persona Facilitadora. La persona física certificada, para el ejercicio público o privado, cuya función es propiciar la comunicación y avenencia para la solución de controversias entre las partes a través de los mecanismos alternativos de solución de controversias, previstos en esta Ley y demás que resulten aplicables; XV.Procesos de Justicia Restaurativa. Conjunto de sesiones, encuentros e intervenciones metodológicas, multidisciplinarias y especializadas enfocadas en gestionar el conflicto mediante el reconocimiento de su existencia y los daños que se generaron, así como la identificación de las necesidades de las partes, su momento de vida y sus mutuas responsabilidades, con la finalidad de adoptar y acordar el despliegue de conductas enfocadas en reparar los daños existentes y prevenir los futuros, bajo la expectativa de no repetición; XVI.Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto; XVII.Registro de Personas Facilitadoras. Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas; XVIII.Plataforma Nacional de Personas Facilitadoras. Resguardo electrónico a cargo del Consejo de la Judicatura Federal, que contiene los datos e información respecto del otorgamiento de certificación de las personas facilitadoras públicas y privadas en todo el territorio nacional, así como de las personas abogadas colaborativas; XIX.Sistemas en línea. Dispositivos electrónicos, programas informáticos, aplicaciones, herramientas tecnológicas, plataformas, protocolos, sistemas de justicia descentralizada, sistemas automatizados y demás tecnologías de la información y comunicación, utilizados para llevar a cabo la solución de controversias en línea; XX.Sistema de Convenios. Resguardo electrónico del registro de los convenios, a cargo del Centro Público de Mecanismos Alternativos de Solución de Controversias, de los Poderes Judiciales Federal o de las entidades federativas; XXI.Sistema Nacional de Información de Convenios. Resguardo electrónico de la información contenida en el Sistema de Convenios de los Poderes Judiciales Federal o de las entidades federativas, a cargo del Consejo de la Judicatura Federal; XXII.Solución de Controversias en Línea. Procedimiento no jurisdiccional para llevar a cabo electrónicamente los mecanismos alternativos de solución de controversias enlistados en el artículo 4 de esta Ley; los que utilicen sistemas automatizados y sistemas de justicia descentralizada; XXIII.Suscripción. Es la firma del convenio por las partes y la persona facilitadora, y XXIV.Tribunales de Justicia Administrativa. El Tribunal Federal de Justicia Administrativa y los Tribunales de Justicia Administrativa de las entidades federativas."
+    },
+    {
+      "numero": 6,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Son Principios rectores de esta Ley, los siguientes: I.Acceso a la justicia alternativa. Garantía que tiene toda persona para el acceso efectivo a una justicia distinta a la jurisdiccional, de carácter confidencial, voluntaria, completa, neutral, independiente, flexible, igualitaria, legal, pronta y expedita a través de los mecanismos alternos a los procesos jurisdiccionales para la solución de controversias; II.Autonomía de la voluntad. La libertad que detentan las partes para autorregular sus intereses y relaciones personales y jurídicas dentro del ámbito permitido por la ley sin que medie coacción o imposición externa durante su participación en los mecanismos alternativos de solución de controversias; III.Buena fe. Implica que las partes, en un procedimiento de mecanismos alternativos de solución de controversias, participen con probidad y honradez, libre de vicios, dolo o defectos y sin intención de engañar; IV.Confidencialidad. La información aportada, compartida o expuesta por las partes y que es de conocimiento de las personas facilitadoras, abogadas colaborativas y terceros que participen en los mecanismos alternativos de solución de controversias, no podrá ser divulgada, de conformidad con lo dispuesto en esta Ley y la legislación en materia de protección de datos personales. Se exceptúa de este principio, la información que revele un delito que se esté cometiendo o cuya consumación sea inminente; V.Equidad. Las personas facilitadoras propiciarán la igualdad y equilibrio entre las partes que intervienen en el procedimiento a fin de que los acuerdos alcanzados respeten derechos humanos, sean leales, proporcionales y equitativos; VI.Flexibilidad. Los mecanismos alternativos de solución de controversias se desarrollarán sin formalidades y trámites rígidos o excesivos para las partes; VII.Gratuidad. La tramitación de los mecanismos alternativos de solución de controversias en el ámbito público y los que se realicen por los Tribunales de Justicia Administrativa, Órganos Constitucionales Autónomos, la Administración Pública Centralizada o Descentralizada, en sus respectivos niveles de gobierno y ámbitos de competencia, deberán ser gratuitos, a fin de garantizar el acceso a la justicia alternativa efectiva; VIII.Honestidad. Las partes, personas facilitadoras, abogadas colaborativas y terceros deberán conducir su participación durante el mecanismo alternativo de solución de controversia con apego a la verdad y profesionalismo; IX.Imparcialidad. Las personas facilitadoras o las abogadas colaborativas que conduzcan los mecanismos alternativos de solución de controversias deberán mantenerse libres de favoritismos, o preferencias personales, que impliquen la concesión de ventajas indebidas a alguna de las partes; X.Interés superior de niñas, niños y adolescentes. Criterio de interpretación que implica que el ejercicio pleno de sus derechos debe ser considerado como rector en los procedimientos de mecanismos alternativos de solución de controversias; XI.Legalidad. Los mecanismos alternativos de solución de controversias tendrán como límite la Ley, el irrestricto respeto a los derechos humanos, orden público y la voluntad de las partes; XII.Neutralidad. Las personas facilitadoras deberán tratar los asuntos con objetividad y evitar juicios de valor, opiniones o prejuicios que puedan influir en la toma de decisiones de las partes; XIII.Voluntariedad. La participación de las partes en los mecanismos alternativos de solución de controversias se realiza por decisión propia y libre, y XIV.Los demás establecidos en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado mexicano sea parte.",
+      "fracciones": [],
+      "texto_completo": "Artículo 6. Son Principios rectores de esta Ley, los siguientes: I.Acceso a la justicia alternativa. Garantía que tiene toda persona para el acceso efectivo a una justicia distinta a la jurisdiccional, de carácter confidencial, voluntaria, completa, neutral, independiente, flexible, igualitaria, legal, pronta y expedita a través de los mecanismos alternos a los procesos jurisdiccionales para la solución de controversias; II.Autonomía de la voluntad. La libertad que detentan las partes para autorregular sus intereses y relaciones personales y jurídicas dentro del ámbito permitido por la ley sin que medie coacción o imposición externa durante su participación en los mecanismos alternativos de solución de controversias; III.Buena fe. Implica que las partes, en un procedimiento de mecanismos alternativos de solución de controversias, participen con probidad y honradez, libre de vicios, dolo o defectos y sin intención de engañar; IV.Confidencialidad. La información aportada, compartida o expuesta por las partes y que es de conocimiento de las personas facilitadoras, abogadas colaborativas y terceros que participen en los mecanismos alternativos de solución de controversias, no podrá ser divulgada, de conformidad con lo dispuesto en esta Ley y la legislación en materia de protección de datos personales. Se exceptúa de este principio, la información que revele un delito que se esté cometiendo o cuya consumación sea inminente; V.Equidad. Las personas facilitadoras propiciarán la igualdad y equilibrio entre las partes que intervienen en el procedimiento a fin de que los acuerdos alcanzados respeten derechos humanos, sean leales, proporcionales y equitativos; VI.Flexibilidad. Los mecanismos alternativos de solución de controversias se desarrollarán sin formalidades y trámites rígidos o excesivos para las partes; VII.Gratuidad. La tramitación de los mecanismos alternativos de solución de controversias en el ámbito público y los que se realicen por los Tribunales de Justicia Administrativa, Órganos Constitucionales Autónomos, la Administración Pública Centralizada o Descentralizada, en sus respectivos niveles de gobierno y ámbitos de competencia, deberán ser gratuitos, a fin de garantizar el acceso a la justicia alternativa efectiva; VIII.Honestidad. Las partes, personas facilitadoras, abogadas colaborativas y terceros deberán conducir su participación durante el mecanismo alternativo de solución de controversia con apego a la verdad y profesionalismo; IX.Imparcialidad. Las personas facilitadoras o las abogadas colaborativas que conduzcan los mecanismos alternativos de solución de controversias deberán mantenerse libres de favoritismos, o preferencias personales, que impliquen la concesión de ventajas indebidas a alguna de las partes; X.Interés superior de niñas, niños y adolescentes. Criterio de interpretación que implica que el ejercicio pleno de sus derechos debe ser considerado como rector en los procedimientos de mecanismos alternativos de solución de controversias; XI.Legalidad. Los mecanismos alternativos de solución de controversias tendrán como límite la Ley, el irrestricto respeto a los derechos humanos, orden público y la voluntad de las partes; XII.Neutralidad. Las personas facilitadoras deberán tratar los asuntos con objetividad y evitar juicios de valor, opiniones o prejuicios que puedan influir en la toma de decisiones de las partes; XIII.Voluntariedad. La participación de las partes en los mecanismos alternativos de solución de controversias se realiza por decisión propia y libre, y XIV.Los demás establecidos en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado mexicano sea parte."
+    },
+    {
+      "numero": 7,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Las Dependencias Públicas, Órganos y Organismos de los tres órdenes de gobierno, Poderes Públicos, las Empresas Productivas del Estado y Órganos Constitucionales Autónomos, podrán concurrir como partes a los Centros Públicos de Mecanismos Alternativos de Solución de Controversias a través de las personas titulares de las dependencias o instituciones públicas que correspondan, quienes podrán ser representados o sustituidos, en términos de las disposiciones legales y reglamentarias aplicables o por conducto de los titulares de las oficinas jurídicas respectivas. El mecanismo alternativo de solución de controversias será admisible siempre que no resulte contrario al orden jurídico o interés público, ni verse sobre derechos indisponibles.",
+      "fracciones": [],
+      "texto_completo": "Artículo 7. Las Dependencias Públicas, Órganos y Organismos de los tres órdenes de gobierno, Poderes Públicos, las Empresas Productivas del Estado y Órganos Constitucionales Autónomos, podrán concurrir como partes a los Centros Públicos de Mecanismos Alternativos de Solución de Controversias a través de las personas titulares de las dependencias o instituciones públicas que correspondan, quienes podrán ser representados o sustituidos, en términos de las disposiciones legales y reglamentarias aplicables o por conducto de los titulares de las oficinas jurídicas respectivas. El mecanismo alternativo de solución de controversias será admisible siempre que no resulte contrario al orden jurídico o interés público, ni verse sobre derechos indisponibles."
+    },
+    {
+      "numero": 8,
+      "capitulo_numero": "I",
+      "capitulo_nombre": "Naturaleza y Objeto",
+      "seccion_nombre": null,
+      "texto_intro": "Los mecanismos alternativos de solución de controversias que se lleven a cabo por las Dependencias, Órganos y Organismos de los tres órdenes de gobierno, Órganos Constitucionales Autónomos, así como con las Empresas Productivas del Estado, tendrán el alcance y efectos jurídicos previstos por esta Ley, las leyes federales o locales que resulten aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 8. Los mecanismos alternativos de solución de controversias que se lleven a cabo por las Dependencias, Órganos y Organismos de los tres órdenes de gobierno, Órganos Constitucionales Autónomos, así como con las Empresas Productivas del Estado, tendrán el alcance y efectos jurídicos previstos por esta Ley, las leyes federales o locales que resulten aplicables."
+    },
+    {
+      "numero": 9,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "El Consejo, es el máximo órgano colegiado, honorífico, rector en materia de políticas públicas respecto de los mecanismos alternativos de solución de controversias.",
+      "fracciones": [],
+      "texto_completo": "Artículo 9. El Consejo, es el máximo órgano colegiado, honorífico, rector en materia de políticas públicas respecto de los mecanismos alternativos de solución de controversias."
+    },
+    {
+      "numero": 10,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "El Consejo, se integra con las personas titulares de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias de la Federación y de las entidades federativas, quienes podrán designar en su ausencia un representante para concurrir a las sesiones con voz y voto.",
+      "fracciones": [],
+      "texto_completo": "Artículo 10. El Consejo, se integra con las personas titulares de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias de la Federación y de las entidades federativas, quienes podrán designar en su ausencia un representante para concurrir a las sesiones con voz y voto."
+    },
+    {
+      "numero": 11,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "La Presidencia del Consejo durará en el encargo tres años y será designada por el voto secreto de las dos terceras partes de sus integrantes. La persona que ocupe la Presidencia podrá reelegirse hasta por un periodo igual.",
+      "fracciones": [],
+      "texto_completo": "Artículo 11. La Presidencia del Consejo durará en el encargo tres años y será designada por el voto secreto de las dos terceras partes de sus integrantes. La persona que ocupe la Presidencia podrá reelegirse hasta por un periodo igual."
+    },
+    {
+      "numero": 12,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "La persona que presida el Consejo, por iniciativa propia o a propuesta de alguna de las personas integrantes del mismo, podrá invitar a las sesiones de Consejo con voz, pero sin voto, a representantes de instituciones académicas, personas facilitadoras privadas y profesionales especialistas en la materia. Para tal efecto, el Consejo convocará a organizaciones de la sociedad civil, cámaras empresariales, barras y asociaciones de profesionistas, de conformidad con los Lineamientos que para tal efecto expida.",
+      "fracciones": [],
+      "texto_completo": "Artículo 12. La persona que presida el Consejo, por iniciativa propia o a propuesta de alguna de las personas integrantes del mismo, podrá invitar a las sesiones de Consejo con voz, pero sin voto, a representantes de instituciones académicas, personas facilitadoras privadas y profesionales especialistas en la materia. Para tal efecto, el Consejo convocará a organizaciones de la sociedad civil, cámaras empresariales, barras y asociaciones de profesionistas, de conformidad con los Lineamientos que para tal efecto expida."
+    },
+    {
+      "numero": 13,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "El Consejo deberá sesionar en forma ordinaria al menos cuatro veces al año, con un quórum mínimo de la mitad más uno de sus integrantes, mismas que deberán ser convocadas por su Presidente y publicadas en los medios oficiales que para tal efecto disponga su reglamento interno.",
+      "fracciones": [],
+      "texto_completo": "Artículo 13. El Consejo deberá sesionar en forma ordinaria al menos cuatro veces al año, con un quórum mínimo de la mitad más uno de sus integrantes, mismas que deberán ser convocadas por su Presidente y publicadas en los medios oficiales que para tal efecto disponga su reglamento interno."
+    },
+    {
+      "numero": 14,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Las sesiones extraordinarias deberán ser convocadas con al menos setenta y dos horas de antelación, a través de la Secretaría Técnica, de conformidad con los Lineamientos que al efecto expida el Consejo de acuerdo a lo siguiente: I.Por la Presidencia, o II.Por al menos un tercio de sus integrantes.",
+      "fracciones": [],
+      "texto_completo": "Artículo 14. Las sesiones extraordinarias deberán ser convocadas con al menos setenta y dos horas de antelación, a través de la Secretaría Técnica, de conformidad con los Lineamientos que al efecto expida el Consejo de acuerdo a lo siguiente: I.Por la Presidencia, o II.Por al menos un tercio de sus integrantes."
+    },
+    {
+      "numero": 15,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "El Consejo tomará sus decisiones por la mayoría simple de sus integrantes presentes.",
+      "fracciones": [],
+      "texto_completo": "Artículo 15. El Consejo tomará sus decisiones por la mayoría simple de sus integrantes presentes."
+    },
+    {
+      "numero": 16,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "El Consejo contará con una Secretaría Técnica, que será designada por su Presidencia de entre el personal que integra los Centros Públicos de Mecanismos Alternativos de Solución de Controversias y aprobado por la mayoría simple de los integrantes del mismo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 16. El Consejo contará con una Secretaría Técnica, que será designada por su Presidencia de entre el personal que integra los Centros Públicos de Mecanismos Alternativos de Solución de Controversias y aprobado por la mayoría simple de los integrantes del mismo."
+    },
+    {
+      "numero": 17,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "La persona que ocupe la Secretaría Técnica durará en el encargo tres años y podrá ser ratificada o revocado su nombramiento en cualquier tiempo, en los mismos términos de su designación. Por este encargo no recibirá remuneración alguna, pero podrá auxiliarse de otras personas de su mismo Centro Público.",
+      "fracciones": [],
+      "texto_completo": "Artículo 17. La persona que ocupe la Secretaría Técnica durará en el encargo tres años y podrá ser ratificada o revocado su nombramiento en cualquier tiempo, en los mismos términos de su designación. Por este encargo no recibirá remuneración alguna, pero podrá auxiliarse de otras personas de su mismo Centro Público."
+    },
+    {
+      "numero": 18,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Corresponde al Consejo, en el ámbito de sus facultades, lo siguiente: I.Expedir los Lineamientos de capacitación, evaluación, certificación, renovación, suspensión y revocación de personas facilitadoras; II.Expedir los Lineamientos de creación de la Plataforma Nacional de Personas Facilitadoras, que deberá contener la información de todas las personas que ejerzan en el territorio nacional, así como su actualización y publicación en el sitio web oficial, que estará a cargo del Consejo de la Judicatura Federal para su consulta pública; III.Expedir los Lineamientos de creación, actualización y mantenimiento de los Sistemas de Convenios, que se suscriban en todo el territorio nacional y que estarán a cargo de los Consejos de la Judicatura Federal y locales, en sus respectivos ámbitos competenciales; IV.Expedir los Lineamientos y Bases para la participación de las personas profesionistas, académicas y especialistas a las que se refiere el artículo 12 de la presente Ley; V.Aprobar los Lineamientos para la celebración de convenios de Colaboración con Instituciones públicas y privadas, nacionales o extranjeras para la impartición de cursos de capacitación y programas académicos orientados a la obtención de certificación de personas facilitadoras públicas y privadas; VI.Elaborar y aprobar su reglamento interno, y VII.Las demás que resulten necesarias para el cumplimiento de esta Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 18. Corresponde al Consejo, en el ámbito de sus facultades, lo siguiente: I.Expedir los Lineamientos de capacitación, evaluación, certificación, renovación, suspensión y revocación de personas facilitadoras; II.Expedir los Lineamientos de creación de la Plataforma Nacional de Personas Facilitadoras, que deberá contener la información de todas las personas que ejerzan en el territorio nacional, así como su actualización y publicación en el sitio web oficial, que estará a cargo del Consejo de la Judicatura Federal para su consulta pública; III.Expedir los Lineamientos de creación, actualización y mantenimiento de los Sistemas de Convenios, que se suscriban en todo el territorio nacional y que estarán a cargo de los Consejos de la Judicatura Federal y locales, en sus respectivos ámbitos competenciales; IV.Expedir los Lineamientos y Bases para la participación de las personas profesionistas, académicas y especialistas a las que se refiere el artículo 12 de la presente Ley; V.Aprobar los Lineamientos para la celebración de convenios de Colaboración con Instituciones públicas y privadas, nacionales o extranjeras para la impartición de cursos de capacitación y programas académicos orientados a la obtención de certificación de personas facilitadoras públicas y privadas; VI.Elaborar y aprobar su reglamento interno, y VII.Las demás que resulten necesarias para el cumplimiento de esta Ley."
+    },
+    {
+      "numero": 19,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "De conformidad con los Lineamientos que al efecto expida el Consejo, corresponde a los Poderes Judiciales Federal o de las entidades federativas, en sus respectivos ámbitos de competencia lo siguiente: I.Otorgar, negar, revocar, suspender, o renovar la certificación a las personas facilitadoras en el ámbito público y privado; II.Designar a las personas facilitadoras y Titulares de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias; III.Designar a las personas responsables del Registro de Personas Facilitadoras y del Sistema de Convenios, en el ámbito federal o local, según corresponda; IV.Disponer la creación y actualización del Registro de Personas Facilitadoras en el ámbito federal o local, según corresponda; V.Supervisar el desempeño de las personas que ejercen los mecanismos alternativos de solución de controversias en el ámbito público y privado; VI.Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho fundamental reconocido por la Constitución Política de los Estados Unidos Mexicanos para garantizar el acceso efectivo a la justicia, y generar una cultura de paz; VII.Evaluar y supervisar el desempeño de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias; VIII.Expedir los Lineamientos de Operación de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias, y IX.Imponer las sanciones que corresponda por infracciones a lo dispuesto en esta Ley. Las atribuciones correspondientes a los Poderes Judiciales Federal y locales, en materia de mecanismos alternativos de solución de controversias, se ejercerán de conformidad con lo dispuesto en sus respectivas Leyes Orgánicas.",
+      "fracciones": [],
+      "texto_completo": "Artículo 19. De conformidad con los Lineamientos que al efecto expida el Consejo, corresponde a los Poderes Judiciales Federal o de las entidades federativas, en sus respectivos ámbitos de competencia lo siguiente: I.Otorgar, negar, revocar, suspender, o renovar la certificación a las personas facilitadoras en el ámbito público y privado; II.Designar a las personas facilitadoras y Titulares de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias; III.Designar a las personas responsables del Registro de Personas Facilitadoras y del Sistema de Convenios, en el ámbito federal o local, según corresponda; IV.Disponer la creación y actualización del Registro de Personas Facilitadoras en el ámbito federal o local, según corresponda; V.Supervisar el desempeño de las personas que ejercen los mecanismos alternativos de solución de controversias en el ámbito público y privado; VI.Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho fundamental reconocido por la Constitución Política de los Estados Unidos Mexicanos para garantizar el acceso efectivo a la justicia, y generar una cultura de paz; VII.Evaluar y supervisar el desempeño de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias; VIII.Expedir los Lineamientos de Operación de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias, y IX.Imponer las sanciones que corresponda por infracciones a lo dispuesto en esta Ley. Las atribuciones correspondientes a los Poderes Judiciales Federal y locales, en materia de mecanismos alternativos de solución de controversias, se ejercerán de conformidad con lo dispuesto en sus respectivas Leyes Orgánicas."
+    },
+    {
+      "numero": 20,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Las Dependencias Públicas, Órganos y Organismos de los tres poderes públicos y órdenes de gobierno, las Empresas Productivas del Estado, así como los Órganos Constitucionales Autónomos, podrán solicitar al Poder Judicial Federal o de las entidades federativas, según corresponda, programas de capacitación en materia de mecanismos alternativos de solución de controversias.",
+      "fracciones": [],
+      "texto_completo": "Artículo 20. Las Dependencias Públicas, Órganos y Organismos de los tres poderes públicos y órdenes de gobierno, las Empresas Productivas del Estado, así como los Órganos Constitucionales Autónomos, podrán solicitar al Poder Judicial Federal o de las entidades federativas, según corresponda, programas de capacitación en materia de mecanismos alternativos de solución de controversias."
+    },
+    {
+      "numero": 21,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Primera - Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "La capacitación de las personas que aspiren a obtener la certificación como facilitadoras públicas o privadas, en ningún caso podrá ser menor a ciento veinte horas, de conformidad con los Lineamientos que para tal efecto emita el Consejo. En caso de que la persona facilitadora pretenda implementar, dirigir o participar en procesos de Justicia Restaurativa, además de la capacitación señalada en el párrafo que antecede, deberá contar con sesenta horas más de capacitación especializada en Procesos Restaurativos.",
+      "fracciones": [],
+      "texto_completo": "Artículo 21. La capacitación de las personas que aspiren a obtener la certificación como facilitadoras públicas o privadas, en ningún caso podrá ser menor a ciento veinte horas, de conformidad con los Lineamientos que para tal efecto emita el Consejo. En caso de que la persona facilitadora pretenda implementar, dirigir o participar en procesos de Justicia Restaurativa, además de la capacitación señalada en el párrafo que antecede, deberá contar con sesenta horas más de capacitación especializada en Procesos Restaurativos."
+    },
+    {
+      "numero": 22,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Segunda - De los Centros de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Los Centros de Mecanismos Alternativos de Solución de Controversias, como órganos auxiliares de los Poderes Judiciales Federal o de las entidades federativas, en sus respectivos ámbitos de competencia, podrán ser Públicos o Privados. Los Centros Públicos, contarán con independencia técnica, operativa y de gestión.",
+      "fracciones": [],
+      "texto_completo": "Artículo 22. Los Centros de Mecanismos Alternativos de Solución de Controversias, como órganos auxiliares de los Poderes Judiciales Federal o de las entidades federativas, en sus respectivos ámbitos de competencia, podrán ser Públicos o Privados. Los Centros Públicos, contarán con independencia técnica, operativa y de gestión."
+    },
+    {
+      "numero": 23,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Segunda - De los Centros de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, contarán con una persona Titular, el número de personas facilitadoras, personal técnico y administrativo necesario para el cumplimiento de lo dispuesto en esta Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 23. Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, contarán con una persona Titular, el número de personas facilitadoras, personal técnico y administrativo necesario para el cumplimiento de lo dispuesto en esta Ley."
+    },
+    {
+      "numero": 24,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Segunda - De los Centros de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Corresponde a los Centros de Mecanismos Alternativos de Solución de Controversias Públicos o Privados, en el ámbito de sus competencias, lo siguiente: I.Contar con la infraestructura y requerimientos tecnológicos necesarios para el trámite y prestación de los servicios de mecanismos alternativos de solución de controversias, de manera presencial o en línea, que les sean solicitados por las partes, privilegiando el acceso y comunicación a personas que pertenezcan a grupos de atención prioritaria; II.Proporcionar la información accesible al público, respecto del trámite y ejercicio de los mecanismos alternativos de solución de controversias; III.Garantizar la accesibilidad y asequibilidad a los mecanismos alternativos de solución de controversias; IV.Integrar y poner a disposición del público el Directorio actualizado de personas facilitadoras en el ámbito público y privado de la demarcación; V.Promover, impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias; VI.Coadyuvar en la implementación de programas, acciones y tareas en el ámbito de sus respectivas competencias en la materia; VII.Actualizar y suministrar la información del Registro de Personas Facilitadoras correlativa a las personas facilitadoras de los Centros Públicos del ámbito federal o local, según corresponda; VIII.Prestar asistencia técnica y consultiva a organismos públicos y privados, para el diseño y elaboración de políticas públicas y programas que contribuyan al mejoramiento del sistema de administración de justicia a través de los mecanismos alternativos de solución de controversias; IX.Remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios para efectos estadísticos contenida en el Sistema de Convenios del ámbito federal o local, según corresponda, y X.Las demás que les atribuyan las leyes, según corresponda.",
+      "fracciones": [],
+      "texto_completo": "Artículo 24. Corresponde a los Centros de Mecanismos Alternativos de Solución de Controversias Públicos o Privados, en el ámbito de sus competencias, lo siguiente: I.Contar con la infraestructura y requerimientos tecnológicos necesarios para el trámite y prestación de los servicios de mecanismos alternativos de solución de controversias, de manera presencial o en línea, que les sean solicitados por las partes, privilegiando el acceso y comunicación a personas que pertenezcan a grupos de atención prioritaria; II.Proporcionar la información accesible al público, respecto del trámite y ejercicio de los mecanismos alternativos de solución de controversias; III.Garantizar la accesibilidad y asequibilidad a los mecanismos alternativos de solución de controversias; IV.Integrar y poner a disposición del público el Directorio actualizado de personas facilitadoras en el ámbito público y privado de la demarcación; V.Promover, impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias; VI.Coadyuvar en la implementación de programas, acciones y tareas en el ámbito de sus respectivas competencias en la materia; VII.Actualizar y suministrar la información del Registro de Personas Facilitadoras correlativa a las personas facilitadoras de los Centros Públicos del ámbito federal o local, según corresponda; VIII.Prestar asistencia técnica y consultiva a organismos públicos y privados, para el diseño y elaboración de políticas públicas y programas que contribuyan al mejoramiento del sistema de administración de justicia a través de los mecanismos alternativos de solución de controversias; IX.Remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios para efectos estadísticos contenida en el Sistema de Convenios del ámbito federal o local, según corresponda, y X.Las demás que les atribuyan las leyes, según corresponda."
+    },
+    {
+      "numero": 25,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Segunda - De los Centros de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Las personas facilitadoras en el ámbito privado deberán remitir los convenios que de conformidad con lo dispuesto en esta Ley suscriban, al Sistema de Convenios del ámbito federal o local, según corresponda, a fin de obtener la clave o número de registro del mismo, para alcanzar todos sus efectos jurídicos.",
+      "fracciones": [],
+      "texto_completo": "Artículo 25. Las personas facilitadoras en el ámbito privado deberán remitir los convenios que de conformidad con lo dispuesto en esta Ley suscriban, al Sistema de Convenios del ámbito federal o local, según corresponda, a fin de obtener la clave o número de registro del mismo, para alcanzar todos sus efectos jurídicos."
+    },
+    {
+      "numero": 26,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Segunda - De los Centros de Mecanismos Alternativos de Solución de Controversias",
+      "texto_intro": "Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, deberán mantener actualizada la información respecto del ejercicio de sus funciones y remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios y a la Plataforma Nacional de Personas Facilitadoras la información que corresponda, de conformidad con los Lineamientos que al efecto emita el Consejo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 26. Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, deberán mantener actualizada la información respecto del ejercicio de sus funciones y remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios y a la Plataforma Nacional de Personas Facilitadoras la información que corresponda, de conformidad con los Lineamientos que al efecto emita el Consejo."
+    },
+    {
+      "numero": 27,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Tercera - De las Personas Titulares de los Centros Públicos",
+      "texto_intro": "Para ser Titular de un Centro Público de Mecanismos Alternativos de Solución de Controversias, se requieren los mismos requisitos previstos para las personas facilitadoras, además de acreditar experiencia profesional de al menos cinco años en la materia y contar con Título y Cédula de Licenciatura en Derecho o en Abogacía.",
+      "fracciones": [],
+      "texto_completo": "Artículo 27. Para ser Titular de un Centro Público de Mecanismos Alternativos de Solución de Controversias, se requieren los mismos requisitos previstos para las personas facilitadoras, además de acreditar experiencia profesional de al menos cinco años en la materia y contar con Título y Cédula de Licenciatura en Derecho o en Abogacía."
+    },
+    {
+      "numero": 28,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Tercera - De las Personas Titulares de los Centros Públicos",
+      "texto_intro": "Las personas Titulares de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias durarán en el encargo cinco años, con posibilidad de ratificación hasta por un periodo igual.",
+      "fracciones": [],
+      "texto_completo": "Artículo 28. Las personas Titulares de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias durarán en el encargo cinco años, con posibilidad de ratificación hasta por un periodo igual."
+    },
+    {
+      "numero": 29,
+      "capitulo_numero": "II",
+      "capitulo_nombre": "De la Competencia",
+      "seccion_nombre": "Sección Tercera - De las Personas Titulares de los Centros Públicos",
+      "texto_intro": "Corresponde a la persona Titular del Centro Público de Mecanismos Alternativos de Solución de Controversias, al menos, lo siguiente: I.Vigilar que el servicio otorgado por el Centro se apegue a los principios, fines y procedimientos establecidos en esta Ley, en pleno respeto y garantía de los derechos humanos; II.Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos de Solución de Controversias del que se trate; III.Determinar que las solicitudes que se presentan en cada Centro resulten de la competencia del mismo y designar a la persona facilitadora que corresponda en turno; IV.Supervisar el cumplimiento de las reglas de funcionamiento del Centro; V.Supervisar que los Convenios celebrados por las personas facilitadoras no afecten derechos humanos; VI.Realizar la asignación y control en forma equitativa y distributiva de las cargas de trabajo de las personas facilitadoras; VII.Revisar el contenido de los convenios que le remitan las personas facilitadoras del ámbito privado para efectos de validación en los casos que así corresponda; VIII.Recabar y remitir la información a la Plataforma Nacional de Personas Facilitadoras, para su debida actualización; IX.Llevar a cabo la organización de las evaluaciones de personas facilitadoras, así como los actos necesarios para el procedimiento de certificación a cargo del Poder Judicial que corresponda, de conformidad con los Lineamientos que al efecto expida el Consejo; X.Participar en la aplicación de exámenes, en los concursos de oposición para seleccionar a las personas facilitadoras en los términos de los Lineamientos que para dichos efectos emita el Consejo; XI.Instrumentar políticas públicas, planes y programas de desarrollo, difusión y establecimiento de mecanismos de solución pacífica de controversias, en los contextos sociales que se requiera y sea necesario; XII.Dar aviso a la Plataforma Nacional de Personas Facilitadoras, de las sanciones impuestas, para su inscripción en el mismo, y XIII.Las demás atribuciones contempladas en las leyes locales y federales para el cumplimiento de los objetivos de esta Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 29. Corresponde a la persona Titular del Centro Público de Mecanismos Alternativos de Solución de Controversias, al menos, lo siguiente: I.Vigilar que el servicio otorgado por el Centro se apegue a los principios, fines y procedimientos establecidos en esta Ley, en pleno respeto y garantía de los derechos humanos; II.Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos de Solución de Controversias del que se trate; III.Determinar que las solicitudes que se presentan en cada Centro resulten de la competencia del mismo y designar a la persona facilitadora que corresponda en turno; IV.Supervisar el cumplimiento de las reglas de funcionamiento del Centro; V.Supervisar que los Convenios celebrados por las personas facilitadoras no afecten derechos humanos; VI.Realizar la asignación y control en forma equitativa y distributiva de las cargas de trabajo de las personas facilitadoras; VII.Revisar el contenido de los convenios que le remitan las personas facilitadoras del ámbito privado para efectos de validación en los casos que así corresponda; VIII.Recabar y remitir la información a la Plataforma Nacional de Personas Facilitadoras, para su debida actualización; IX.Llevar a cabo la organización de las evaluaciones de personas facilitadoras, así como los actos necesarios para el procedimiento de certificación a cargo del Poder Judicial que corresponda, de conformidad con los Lineamientos que al efecto expida el Consejo; X.Participar en la aplicación de exámenes, en los concursos de oposición para seleccionar a las personas facilitadoras en los términos de los Lineamientos que para dichos efectos emita el Consejo; XI.Instrumentar políticas públicas, planes y programas de desarrollo, difusión y establecimiento de mecanismos de solución pacífica de controversias, en los contextos sociales que se requiera y sea necesario; XII.Dar aviso a la Plataforma Nacional de Personas Facilitadoras, de las sanciones impuestas, para su inscripción en el mismo, y XIII.Las demás atribuciones contempladas en las leyes locales y federales para el cumplimiento de los objetivos de esta Ley."
+    },
+    {
+      "numero": 30,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Corresponde a las personas facilitadoras, los siguientes deberes y obligaciones: I.Determinar si el asunto que le corresponde conocer es susceptible de ser resuelto a través de la aplicación de los mecanismos alternativos de solución de controversias, de conformidad con esta Ley y demás disposiciones jurídicas aplicables al conflicto; II.Conducir el mecanismo alternativo de solución de controversias conforme los principios y disposiciones de esta Ley y las demás disposiciones que expida el Consejo Nacional y a través de acuerdos generales los Consejos de la Judicatura Federal y locales; III.Verificar la identidad y personalidad de las partes y terceros relacionados; IV.Cumplir con los principios establecidos en esta Ley, en todos los asuntos que participen; V.Verificar que los convenios reúnen los requisitos de existencia y validez; VI.Remitir los convenios al Centro Público de Mecanismos Alternativos de Solución de Controversias para su registro y en su caso, validación; VII.Vigilar que en los trámites y durante todas las etapas de los procesos de mecanismos alternativos de solución de controversias en los que intervengan, no se afecten derechos humanos, irrenunciables de las partes, de terceros y disposiciones de orden público; VIII.Para efectos de renovar la certificación, deberán actualizarse en los términos de los Lineamientos que expida el Consejo; IX.Informar a las partes, desde el inicio, la naturaleza y objeto del trámite de los mecanismos alternativos de solución de controversias, así como el alcance jurídico del convenio, explicando con claridad las consecuencias de su eventual incumplimiento; X.Redactar los convenios a los que hayan llegado las partes a través de los mecanismos alternativos de solución de controversias. Cuando la persona facilitadora no se encuentre legalmente autorizada para ejercer la profesión de abogada o licenciada en derecho, podrán auxiliarse de una persona abogada con cédula profesional, para la elaboración y revisión de los efectos legales y registro del mismo; XI.Verificar la disponibilidad de los bienes y derechos que sean objeto de la suscripción del convenio, de acuerdo con lo que establezca la legislación correspondiente; XII.Hacer del conocimiento de las autoridades competentes los hechos que las leyes señalen como delito, y XIII.Las demás que expresamente señale la Ley. Para el cumplimiento de sus funciones, en todos los casos, las personas facilitadoras deberán llevar a cabo los ajustes de procedimiento que se requieran, en términos de lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.",
+      "fracciones": [],
+      "texto_completo": "Artículo 30. Corresponde a las personas facilitadoras, los siguientes deberes y obligaciones: I.Determinar si el asunto que le corresponde conocer es susceptible de ser resuelto a través de la aplicación de los mecanismos alternativos de solución de controversias, de conformidad con esta Ley y demás disposiciones jurídicas aplicables al conflicto; II.Conducir el mecanismo alternativo de solución de controversias conforme los principios y disposiciones de esta Ley y las demás disposiciones que expida el Consejo Nacional y a través de acuerdos generales los Consejos de la Judicatura Federal y locales; III.Verificar la identidad y personalidad de las partes y terceros relacionados; IV.Cumplir con los principios establecidos en esta Ley, en todos los asuntos que participen; V.Verificar que los convenios reúnen los requisitos de existencia y validez; VI.Remitir los convenios al Centro Público de Mecanismos Alternativos de Solución de Controversias para su registro y en su caso, validación; VII.Vigilar que en los trámites y durante todas las etapas de los procesos de mecanismos alternativos de solución de controversias en los que intervengan, no se afecten derechos humanos, irrenunciables de las partes, de terceros y disposiciones de orden público; VIII.Para efectos de renovar la certificación, deberán actualizarse en los términos de los Lineamientos que expida el Consejo; IX.Informar a las partes, desde el inicio, la naturaleza y objeto del trámite de los mecanismos alternativos de solución de controversias, así como el alcance jurídico del convenio, explicando con claridad las consecuencias de su eventual incumplimiento; X.Redactar los convenios a los que hayan llegado las partes a través de los mecanismos alternativos de solución de controversias. Cuando la persona facilitadora no se encuentre legalmente autorizada para ejercer la profesión de abogada o licenciada en derecho, podrán auxiliarse de una persona abogada con cédula profesional, para la elaboración y revisión de los efectos legales y registro del mismo; XI.Verificar la disponibilidad de los bienes y derechos que sean objeto de la suscripción del convenio, de acuerdo con lo que establezca la legislación correspondiente; XII.Hacer del conocimiento de las autoridades competentes los hechos que las leyes señalen como delito, y XIII.Las demás que expresamente señale la Ley. Para el cumplimiento de sus funciones, en todos los casos, las personas facilitadoras deberán llevar a cabo los ajustes de procedimiento que se requieran, en términos de lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares."
+    },
+    {
+      "numero": 31,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Si durante algún trámite o procedimiento regulado por esta Ley, participan personas adultas mayores, personas con discapacidad o personas pertenecientes a grupos en situación de vulnerabilidad, se deberán realizar ajustes razonables y de procedimiento, contar con formatos alternativos que garanticen equidad, accesibilidad estructural y de comunicación, a fin de facilitar el ejercicio de sus derechos y de su capacidad jurídica plena. Las personas facilitadoras deberán garantizar, en todo momento, las acciones señaladas en el párrafo anterior, así como proporcionar los apoyos que sean necesarios e indispensables para una efectiva participación y accesibilidad en los procedimientos de mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en los artículos 1o., 2o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.",
+      "fracciones": [],
+      "texto_completo": "Artículo 31. Si durante algún trámite o procedimiento regulado por esta Ley, participan personas adultas mayores, personas con discapacidad o personas pertenecientes a grupos en situación de vulnerabilidad, se deberán realizar ajustes razonables y de procedimiento, contar con formatos alternativos que garanticen equidad, accesibilidad estructural y de comunicación, a fin de facilitar el ejercicio de sus derechos y de su capacidad jurídica plena. Las personas facilitadoras deberán garantizar, en todo momento, las acciones señaladas en el párrafo anterior, así como proporcionar los apoyos que sean necesarios e indispensables para una efectiva participación y accesibilidad en los procedimientos de mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en los artículos 1o., 2o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte."
+    },
+    {
+      "numero": 32,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Las personas facilitadoras públicas y privadas, tendrán fe pública únicamente en los siguientes casos: I.Para la celebración de los convenios que firmen las partes; II.Para certificar las copias de los documentos que por disposición de esta Ley deban agregarse a los convenios con la finalidad de acreditar que el documento es fiel reproducción de su original, que se tuvo a la vista con el único efecto de ser integrado como anexo al propio convenio, y III.Para expedir copias certificadas de los convenios y demás documentación que se encuentre resguardada en su archivo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 32. Las personas facilitadoras públicas y privadas, tendrán fe pública únicamente en los siguientes casos: I.Para la celebración de los convenios que firmen las partes; II.Para certificar las copias de los documentos que por disposición de esta Ley deban agregarse a los convenios con la finalidad de acreditar que el documento es fiel reproducción de su original, que se tuvo a la vista con el único efecto de ser integrado como anexo al propio convenio, y III.Para expedir copias certificadas de los convenios y demás documentación que se encuentre resguardada en su archivo."
+    },
+    {
+      "numero": 33,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Las personas facilitadoras podrán auxiliarse de otras personas facilitadoras certificadas en mecanismos alternativos de solución de controversias, atendiendo a las características de la controversia o conflicto.",
+      "fracciones": [],
+      "texto_completo": "Artículo 33. Las personas facilitadoras podrán auxiliarse de otras personas facilitadoras certificadas en mecanismos alternativos de solución de controversias, atendiendo a las características de la controversia o conflicto."
+    },
+    {
+      "numero": 34,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Para que la certificación expedida a una persona facilitadora en una entidad federativa surta efectos en otra diversa, deberá estar inscrita en el Registro de Personas Facilitadoras de los Poderes Judiciales que corresponda, de conformidad con la presente Ley y demás disposiciones aplicables. Para el caso de la certificación que expida el Poder Judicial de la Federación, se estará a lo dispuesto en los Lineamientos que para tal efecto emita el Consejo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 34. Para que la certificación expedida a una persona facilitadora en una entidad federativa surta efectos en otra diversa, deberá estar inscrita en el Registro de Personas Facilitadoras de los Poderes Judiciales que corresponda, de conformidad con la presente Ley y demás disposiciones aplicables. Para el caso de la certificación que expida el Poder Judicial de la Federación, se estará a lo dispuesto en los Lineamientos que para tal efecto emita el Consejo."
+    },
+    {
+      "numero": 35,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Las personas facilitadoras incurren en responsabilidad civil por la deficiente o negligente elaboración, suscripción o registro del convenio, sin perjuicio de la responsabilidad administrativa o penal que corresponda, de conformidad con lo dispuesto por esta Ley y demás disposiciones que resulten aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 35. Las personas facilitadoras incurren en responsabilidad civil por la deficiente o negligente elaboración, suscripción o registro del convenio, sin perjuicio de la responsabilidad administrativa o penal que corresponda, de conformidad con lo dispuesto por esta Ley y demás disposiciones que resulten aplicables."
+    },
+    {
+      "numero": 36,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Las personas facilitadoras deberán abstenerse de patrocinar, representar o asesorar a las partes en su conjunto o de manera individual, fuera de los mecanismos alternativos de solución de controversias previstos por esta Ley, durante y al menos el año previo o posterior a la celebración del convenio y su registro. Lo anterior con excepción de las Notarias y Notarios Públicos, Corredoras y Corredores Públicos que hubieren intervenido en la prestación de servicios de fe pública, en atención a los principios de imparcialidad y neutralidad. El incumplimiento de esta disposición dará lugar a la revocación de la certificación.",
+      "fracciones": [],
+      "texto_completo": "Artículo 36. Las personas facilitadoras deberán abstenerse de patrocinar, representar o asesorar a las partes en su conjunto o de manera individual, fuera de los mecanismos alternativos de solución de controversias previstos por esta Ley, durante y al menos el año previo o posterior a la celebración del convenio y su registro. Lo anterior con excepción de las Notarias y Notarios Públicos, Corredoras y Corredores Públicos que hubieren intervenido en la prestación de servicios de fe pública, en atención a los principios de imparcialidad y neutralidad. El incumplimiento de esta disposición dará lugar a la revocación de la certificación."
+    },
+    {
+      "numero": 37,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Primera - Disposiciones Generales",
+      "texto_intro": "Las personas facilitadoras y demás terceras intervinientes, deberán mantener la confidencialidad de la información que involucre el trámite de los mecanismos alternativos de solución de controversias en los que participen. Cualquier contravención será sancionada en los términos previstos en esta Ley y demás ordenamientos que resulten aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 37. Las personas facilitadoras y demás terceras intervinientes, deberán mantener la confidencialidad de la información que involucre el trámite de los mecanismos alternativos de solución de controversias en los que participen. Cualquier contravención será sancionada en los términos previstos en esta Ley y demás ordenamientos que resulten aplicables."
+    },
+    {
+      "numero": 38,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Corresponde al Poder Judicial Federal o de las entidades federativas en sus respectivos ámbitos competenciales, otorgar, negar, suspender, revocar o renovar la certificación de las personas facilitadoras y de las personas abogadas colaborativas, de conformidad con lo que establece esta Ley, las equivalentes en el ámbito local, los Lineamientos que expida al efecto el Consejo Nacional y los acuerdos generales que emitan los Consejos de la Judicatura Federal o locales.",
+      "fracciones": [],
+      "texto_completo": "Artículo 38. Corresponde al Poder Judicial Federal o de las entidades federativas en sus respectivos ámbitos competenciales, otorgar, negar, suspender, revocar o renovar la certificación de las personas facilitadoras y de las personas abogadas colaborativas, de conformidad con lo que establece esta Ley, las equivalentes en el ámbito local, los Lineamientos que expida al efecto el Consejo Nacional y los acuerdos generales que emitan los Consejos de la Judicatura Federal o locales."
+    },
+    {
+      "numero": 39,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "La Certificación otorgada por el Poder Judicial Federal o de las entidades federativas es personalísima, intransferible e indelegable, acredita a la persona facilitadora para intervenir en los mecanismos alternativos de solución de controversias en el ámbito público o privado de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 39. La Certificación otorgada por el Poder Judicial Federal o de las entidades federativas es personalísima, intransferible e indelegable, acredita a la persona facilitadora para intervenir en los mecanismos alternativos de solución de controversias en el ámbito público o privado de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables."
+    },
+    {
+      "numero": 40,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Son requisitos para obtener la Certificación como persona facilitadora: I.Contar con Título y Cédula profesional de estudios de licenciatura; II.Contar con nacionalidad mexicana en pleno goce y ejercicio de sus derechos civiles y políticos; III.No haber sido sentenciado por delito doloso; IV.No ser declarada como persona deudora alimentaria morosa, ni estar inscrita en el Registro Nacional de Obligaciones Alimentarias, y V.Aprobar las evaluaciones que al efecto determinen los Poderes Judiciales Federal o de las entidades federativas según corresponda. Lo dispuesto en el presente Capítulo será aplicable a las personas abogadas colaborativas que participen en los mecanismos alternativos de solución de controversias.",
+      "fracciones": [],
+      "texto_completo": "Artículo 40. Son requisitos para obtener la Certificación como persona facilitadora: I.Contar con Título y Cédula profesional de estudios de licenciatura; II.Contar con nacionalidad mexicana en pleno goce y ejercicio de sus derechos civiles y políticos; III.No haber sido sentenciado por delito doloso; IV.No ser declarada como persona deudora alimentaria morosa, ni estar inscrita en el Registro Nacional de Obligaciones Alimentarias, y V.Aprobar las evaluaciones que al efecto determinen los Poderes Judiciales Federal o de las entidades federativas según corresponda. Lo dispuesto en el presente Capítulo será aplicable a las personas abogadas colaborativas que participen en los mecanismos alternativos de solución de controversias."
+    },
+    {
+      "numero": 41,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Tratándose de personas facilitadoras que pertenezcan a los pueblos y comunidades indígenas y afromexicanas, se estará a lo dispuesto por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, así como lo dispuesto por la legislación de la materia en las entidades federativas.",
+      "fracciones": [],
+      "texto_completo": "Artículo 41. Tratándose de personas facilitadoras que pertenezcan a los pueblos y comunidades indígenas y afromexicanas, se estará a lo dispuesto por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, así como lo dispuesto por la legislación de la materia en las entidades federativas."
+    },
+    {
+      "numero": 42,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias deberán inscribir en el Registro de Personas Facilitadoras, en el ámbito federal o de las entidades federativas, las certificaciones autorizadas por el Poder Judicial correspondiente. El Registro otorgará el número de inscripción correspondiente.",
+      "fracciones": [],
+      "texto_completo": "Artículo 42. Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias deberán inscribir en el Registro de Personas Facilitadoras, en el ámbito federal o de las entidades federativas, las certificaciones autorizadas por el Poder Judicial correspondiente. El Registro otorgará el número de inscripción correspondiente."
+    },
+    {
+      "numero": 43,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "La vigencia de la Certificación tendrá una duración de cinco años sin perjuicio de la revisión periódica que establezca el Poder Judicial Federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el Consejo. En caso de que haya concluido la vigencia de la Certificación expedida a una persona facilitadora y el Poder Judicial correspondiente no emita la convocatoria para la renovación o recertificación en los términos de esta Ley, la certificación continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin.",
+      "fracciones": [],
+      "texto_completo": "Artículo 43. La vigencia de la Certificación tendrá una duración de cinco años sin perjuicio de la revisión periódica que establezca el Poder Judicial Federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el Consejo. En caso de que haya concluido la vigencia de la Certificación expedida a una persona facilitadora y el Poder Judicial correspondiente no emita la convocatoria para la renovación o recertificación en los términos de esta Ley, la certificación continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin."
+    },
+    {
+      "numero": 44,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Las personas facilitadoras podrán en todos los casos desempeñarse para dichos efectos, en cualquier entidad federativa distinta a la que expidió la correspondiente Certificación, de conformidad con lo siguiente: I.Contar con la Certificación vigente en los términos previstos en esta Ley y las de las entidades federativas o de la federación, según corresponda; II.No estar inscrito en el Registro de Personas Facilitadoras, con una anotación de cancelación, revocación o suspensión de la Certificación para ejercer las funciones como persona facilitadora, acorde con lo dispuesto en esta Ley; III.Inscribir su certificación de conformidad con lo dispuesto en el artículo 34 de la presente Ley; IV.Contar con las instalaciones o medios electrónicos para la prestación del servicio de mecanismos alternativos de solución de controversias que permitan la observancia de los principios de esta Ley, y V.Las demás disposiciones establecidas en la presente Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 44. Las personas facilitadoras podrán en todos los casos desempeñarse para dichos efectos, en cualquier entidad federativa distinta a la que expidió la correspondiente Certificación, de conformidad con lo siguiente: I.Contar con la Certificación vigente en los términos previstos en esta Ley y las de las entidades federativas o de la federación, según corresponda; II.No estar inscrito en el Registro de Personas Facilitadoras, con una anotación de cancelación, revocación o suspensión de la Certificación para ejercer las funciones como persona facilitadora, acorde con lo dispuesto en esta Ley; III.Inscribir su certificación de conformidad con lo dispuesto en el artículo 34 de la presente Ley; IV.Contar con las instalaciones o medios electrónicos para la prestación del servicio de mecanismos alternativos de solución de controversias que permitan la observancia de los principios de esta Ley, y V.Las demás disposiciones establecidas en la presente Ley."
+    },
+    {
+      "numero": 45,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Los Poderes Judiciales Federal o de las entidades federativas podrán solicitar que la persona facilitadora privada que haya obtenido una certificación, presente una garantía al inicio de sus funciones. El monto de la garantía será determinado por el Poder Judicial Federal o de las entidades federativas, en sus respectivos ámbitos de competencia y podrá otorgarse mediante billete de depósito, fianza, prenda, hipoteca o cualquier otra garantía legalmente constituida, designándose como beneficiario al Poder Judicial correspondiente.",
+      "fracciones": [],
+      "texto_completo": "Artículo 45. Los Poderes Judiciales Federal o de las entidades federativas podrán solicitar que la persona facilitadora privada que haya obtenido una certificación, presente una garantía al inicio de sus funciones. El monto de la garantía será determinado por el Poder Judicial Federal o de las entidades federativas, en sus respectivos ámbitos de competencia y podrá otorgarse mediante billete de depósito, fianza, prenda, hipoteca o cualquier otra garantía legalmente constituida, designándose como beneficiario al Poder Judicial correspondiente."
+    },
+    {
+      "numero": 46,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Segunda - De la Certificación",
+      "texto_intro": "Las personas facilitadoras deberán excusarse o podrán ser recusadas para conocer de los asuntos, de conformidad con lo dispuesto en el artículo 104 del Código Nacional de Procedimientos Civiles y Familiares y demás disposiciones aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 46. Las personas facilitadoras deberán excusarse o podrán ser recusadas para conocer de los asuntos, de conformidad con lo dispuesto en el artículo 104 del Código Nacional de Procedimientos Civiles y Familiares y demás disposiciones aplicables."
+    },
+    {
+      "numero": 47,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Tercera - De la Suspensión y Revocación de la Certificación",
+      "texto_intro": "Son causas de suspensión de la certificación de las personas facilitadoras, al menos, las siguientes: I.Ostentarse como persona facilitadora en alguno de los mecanismos alternativos de solución de controversias, de los que no forme parte; II.Ejerza coacción o violencia en contra de alguna de las partes; III.Se abstenga de hacer del conocimiento de las partes la improcedencia del mecanismo alternativo de solución de controversias de conformidad con esta Ley; IV.Por realizar actuaciones de fe pública fuera de los casos previstos en esta Ley, y V.Las demás que se determinen en la normatividad local y federal aplicable, según corresponda. El término de la suspensión estará sujeto a las condiciones establecidas por la autoridad competente con base en esta Ley, las correspondientes de las entidades federativas, la Federación y los Lineamientos emitidos por el Consejo en el ámbito de su competencia.",
+      "fracciones": [],
+      "texto_completo": "Artículo 47. Son causas de suspensión de la certificación de las personas facilitadoras, al menos, las siguientes: I.Ostentarse como persona facilitadora en alguno de los mecanismos alternativos de solución de controversias, de los que no forme parte; II.Ejerza coacción o violencia en contra de alguna de las partes; III.Se abstenga de hacer del conocimiento de las partes la improcedencia del mecanismo alternativo de solución de controversias de conformidad con esta Ley; IV.Por realizar actuaciones de fe pública fuera de los casos previstos en esta Ley, y V.Las demás que se determinen en la normatividad local y federal aplicable, según corresponda. El término de la suspensión estará sujeto a las condiciones establecidas por la autoridad competente con base en esta Ley, las correspondientes de las entidades federativas, la Federación y los Lineamientos emitidos por el Consejo en el ámbito de su competencia."
+    },
+    {
+      "numero": 48,
+      "capitulo_numero": "III",
+      "capitulo_nombre": "De las Personas Facilitadoras y su Certificación",
+      "seccion_nombre": "Sección Tercera - De la Suspensión y Revocación de la Certificación",
+      "texto_intro": "Procederá la revocación de la certificación, al menos, por las siguientes causas: I.Haber incurrido en una falta grave, en los términos que fije la presente Ley; II.Haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena privativa de la libertad; III.Reincidir en la participación de algún procedimiento de mecanismos alternativos de solución de controversias, existiendo alguna causa de impedimento previstas en la presente Ley, sin haberse excusado; IV.Por delegar o permitir a un tercero el uso de su certificación como persona facilitadora, y V.Las demás señaladas en esta Ley, así como aquellas que se determinen en la normatividad local y federal aplicable, según corresponda.",
+      "fracciones": [],
+      "texto_completo": "Artículo 48. Procederá la revocación de la certificación, al menos, por las siguientes causas: I.Haber incurrido en una falta grave, en los términos que fije la presente Ley; II.Haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena privativa de la libertad; III.Reincidir en la participación de algún procedimiento de mecanismos alternativos de solución de controversias, existiendo alguna causa de impedimento previstas en la presente Ley, sin haberse excusado; IV.Por delegar o permitir a un tercero el uso de su certificación como persona facilitadora, y V.Las demás señaladas en esta Ley, así como aquellas que se determinen en la normatividad local y federal aplicable, según corresponda."
+    },
+    {
+      "numero": 49,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Primera - Del Registro de Personas Facilitadoras",
+      "texto_intro": "El Poder Judicial de la Federación y los Poderes Judiciales de las entidades federativas contarán con un Registro de Personas Facilitadoras, de conformidad con lo dispuesto en sus Leyes Orgánicas y demás ordenamientos legales aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 49. El Poder Judicial de la Federación y los Poderes Judiciales de las entidades federativas contarán con un Registro de Personas Facilitadoras, de conformidad con lo dispuesto en sus Leyes Orgánicas y demás ordenamientos legales aplicables."
+    },
+    {
+      "numero": 50,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Primera - Del Registro de Personas Facilitadoras",
+      "texto_intro": "Sólo las personas físicas podrán obtener la certificación, así como el Registro correspondiente, de conformidad con lo dispuesto por el artículo 40 de esta Ley.",
+      "fracciones": [],
+      "texto_completo": "Artículo 50. Sólo las personas físicas podrán obtener la certificación, así como el Registro correspondiente, de conformidad con lo dispuesto por el artículo 40 de esta Ley."
+    },
+    {
+      "numero": 51,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Primera - Del Registro de Personas Facilitadoras",
+      "texto_intro": "Corresponde a los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, remitir al Registro de Personas Facilitadoras, en un plazo no mayor a quince días hábiles, contados a partir de la expedición de la Certificación, la información de las personas facilitadoras para su inscripción, según corresponda. Asimismo, deberán remitir cualquier modificación al respecto, de conformidad con la legislación aplicable.",
+      "fracciones": [],
+      "texto_completo": "Artículo 51. Corresponde a los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, remitir al Registro de Personas Facilitadoras, en un plazo no mayor a quince días hábiles, contados a partir de la expedición de la Certificación, la información de las personas facilitadoras para su inscripción, según corresponda. Asimismo, deberán remitir cualquier modificación al respecto, de conformidad con la legislación aplicable."
+    },
+    {
+      "numero": 52,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Segunda - De la Cancelación de la Inscripción",
+      "texto_intro": "Procede la cancelación de la inscripción al Registro de Personas Facilitadoras: I.A solicitud de la persona facilitadora; II.Por resolución firme mediante la cual se revoque la Certificación; III.Por la muerte de la persona facilitadora; IV.Por vencimiento de la vigencia de la Certificación, salvo lo dispuesto en el artículo 43 de esta Ley, y V.En caso de imposición de pena privativa de la libertad, hasta por el mismo plazo previsto en la resolución judicial.",
+      "fracciones": [],
+      "texto_completo": "Artículo 52. Procede la cancelación de la inscripción al Registro de Personas Facilitadoras: I.A solicitud de la persona facilitadora; II.Por resolución firme mediante la cual se revoque la Certificación; III.Por la muerte de la persona facilitadora; IV.Por vencimiento de la vigencia de la Certificación, salvo lo dispuesto en el artículo 43 de esta Ley, y V.En caso de imposición de pena privativa de la libertad, hasta por el mismo plazo previsto en la resolución judicial."
+    },
+    {
+      "numero": 53,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Segunda - De la Cancelación de la Inscripción",
+      "texto_intro": "El Registro de Personas Facilitadoras, en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos, deberá dar aviso a la Plataforma Nacional de Personas Facilitadoras de las sanciones impuestas a las mismas.",
+      "fracciones": [],
+      "texto_completo": "Artículo 53. El Registro de Personas Facilitadoras, en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos, deberá dar aviso a la Plataforma Nacional de Personas Facilitadoras de las sanciones impuestas a las mismas."
+    },
+    {
+      "numero": 54,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Tercera - De la Plataforma Nacional de Personas Facilitadoras",
+      "texto_intro": "La Plataforma Nacional de Personas Facilitadoras concentra la información correlativa, su diseño y actualización corresponde a la instancia que determine el Consejo de la Judicatura Federal y se integra con la información remitida por los Centros Públicos, correspondiente al Registro de Personas Facilitadoras en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el Consejo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 54. La Plataforma Nacional de Personas Facilitadoras concentra la información correlativa, su diseño y actualización corresponde a la instancia que determine el Consejo de la Judicatura Federal y se integra con la información remitida por los Centros Públicos, correspondiente al Registro de Personas Facilitadoras en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el Consejo."
+    },
+    {
+      "numero": 55,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Tercera - De la Plataforma Nacional de Personas Facilitadoras",
+      "texto_intro": "La Plataforma Nacional de Personas Facilitadoras, deberá contener al menos lo siguiente: I.Nombre; II.Clave Única de Registro de Población; III.Datos de contacto y localización; IV.Clave o número de certificación; V.Vigencia de la certificación; VI.Deberá constar si se trata de persona facilitadora pública o privada; VII.Descripción de sanciones en su caso, y VIII.Los demás que determine el Consejo.",
+      "fracciones": [],
+      "texto_completo": "Artículo 55. La Plataforma Nacional de Personas Facilitadoras, deberá contener al menos lo siguiente: I.Nombre; II.Clave Única de Registro de Población; III.Datos de contacto y localización; IV.Clave o número de certificación; V.Vigencia de la certificación; VI.Deberá constar si se trata de persona facilitadora pública o privada; VII.Descripción de sanciones en su caso, y VIII.Los demás que determine el Consejo."
+    },
+    {
+      "numero": 56,
+      "capitulo_numero": "IV",
+      "capitulo_nombre": "De los Registros y la Plataforma Nacional",
+      "seccion_nombre": "Sección Tercera - De la Plataforma Nacional de Personas Facilitadoras",
+      "texto_intro": "Corresponde a los Centros Públicos en el ámbito federal o de las entidades federativas, remitir a la Plataforma Nacional de Personas Facilitadoras, en un plazo no mayor a quince días hábiles, contados a partir de la expedición de la certificación, la información de las personas facilitadoras para su inscripción, según corresponda. Asimismo, deberán remitir cualquier modificación al respecto, de conformidad con la legislación aplicable.",
+      "fracciones": [],
+      "texto_completo": "Artículo 56. Corresponde a los Centros Públicos en el ámbito federal o de las entidades federativas, remitir a la Plataforma Nacional de Personas Facilitadoras, en un plazo no mayor a quince días hábiles, contados a partir de la expedición de la certificación, la información de las personas facilitadoras para su inscripción, según corresponda. Asimismo, deberán remitir cualquier modificación al respecto, de conformidad con la legislación aplicable."
+    },
+    {
+      "numero": 57,
+      "capitulo_numero": "V",
+      "capitulo_nombre": "De las Partes",
+      "seccion_nombre": null,
+      "texto_intro": "Las partes tendrán al menos, los siguientes derechos: I.Recibir la información necesaria con relación a los mecanismos alternativos de solución de controversias, sus alcances, efectos y consecuencias; II.Solicitar al Titular del Centro respectivo, que la persona facilitadora sea sustituida, de conformidad con lo dispuesto en el artículo 46 de esta Ley; III.Recibir un trato igualitario y respetuoso; IV.Una o ambas partes podrán, previo a su validación, solicitar al Centro Público la revisión del convenio, a efecto de verificar que no se violen disposiciones de orden público o se trate de derechos indisponibles, se afecten derechos de terceros o derechos de niñas, niños y adolescentes o personas susceptibles de encontrarse en alguna situación de vulnerabilidad, y V.Las demás previstas por esta Ley y demás disposiciones aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 57. Las partes tendrán al menos, los siguientes derechos: I.Recibir la información necesaria con relación a los mecanismos alternativos de solución de controversias, sus alcances, efectos y consecuencias; II.Solicitar al Titular del Centro respectivo, que la persona facilitadora sea sustituida, de conformidad con lo dispuesto en el artículo 46 de esta Ley; III.Recibir un trato igualitario y respetuoso; IV.Una o ambas partes podrán, previo a su validación, solicitar al Centro Público la revisión del convenio, a efecto de verificar que no se violen disposiciones de orden público o se trate de derechos indisponibles, se afecten derechos de terceros o derechos de niñas, niños y adolescentes o personas susceptibles de encontrarse en alguna situación de vulnerabilidad, y V.Las demás previstas por esta Ley y demás disposiciones aplicables."
+    },
+    {
+      "numero": 58,
+      "capitulo_numero": "V",
+      "capitulo_nombre": "De las Partes",
+      "seccion_nombre": null,
+      "texto_intro": "En atención al principio de autonomía progresiva, las niñas, niños y adolescentes podrán emitir su opinión y que esta se tome en cuenta, e intervenir en los mecanismos alternativos de solución de controversias y en los procesos de Justicia Restaurativa, siempre que sea en su mejor interés, no implique la vulneración de sus derechos, que así sea su voluntad, que su intervención se lleve a cabo con el auxilio de una persona especializada en derechos de la niñez. Así mismo, podrán estar acompañadas de una persona de su confianza.",
+      "fracciones": [],
+      "texto_completo": "Artículo 58. En atención al principio de autonomía progresiva, las niñas, niños y adolescentes podrán emitir su opinión y que esta se tome en cuenta, e intervenir en los mecanismos alternativos de solución de controversias y en los procesos de Justicia Restaurativa, siempre que sea en su mejor interés, no implique la vulneración de sus derechos, que así sea su voluntad, que su intervención se lleve a cabo con el auxilio de una persona especializada en derechos de la niñez. Así mismo, podrán estar acompañadas de una persona de su confianza."
+    },
+    {
+      "numero": 59,
+      "capitulo_numero": "V",
+      "capitulo_nombre": "De las Partes",
+      "seccion_nombre": null,
+      "texto_intro": "Son deberes de las partes, los siguientes: I.Acatar los principios y reglas que regulan los mecanismos alternativos de solución de controversias; II.Conducirse con respeto y observar buen comportamiento durante las sesiones; III.Cumplir con los convenios derivados de los mecanismos alternativos de solución de controversias en que participen; IV.Asistir y participar en cada una de las sesiones; V.Informar a la persona facilitadora o persona abogada colaborativa, sobre la existencia de un proceso jurisdiccional en trámite relacionado con la controversia o conflicto; VI.Informar en las sesiones los hechos que modifiquen la materia de la controversia o conflicto, y VII.Los demás previstos por esta Ley y disposiciones aplicables.",
+      "fracciones": [],
+      "texto_completo": "Artículo 59. Son deberes de las partes, los siguientes: I.Acatar los principios y reglas que regulan los mecanismos alternativos de solución de controversias; II.Conducirse con respeto y observar buen comportamiento durante las sesiones; III.Cumplir con los convenios derivados de los mecanismos alternativos de solución de controversias en que participen; IV.Asistir y participar en cada una de las sesiones; V.Informar a la persona facilitadora o persona abogada colaborativa, sobre la existencia de un proceso jurisdiccional en trámite relacionado con la controversia o conflicto; VI.Informar en las sesiones los hechos que modifiquen la materia de la controversia o conflicto, y VII.Los demás previstos por esta Ley y disposiciones aplicables."
+    },
+    {
+      "numero": 60,
+      "capitulo_numero": "V",
+      "capitulo_nombre": "De las Partes",
+      "seccion_nombre": null,
+      "texto_intro": "Cuando alguna de las partes en el trámite de los mecanismos alternativos de solución de controversias, se identifique como integrante de los pueblos y comunidades indígenas y afromexicanas, se estará a sus usos y costumbres de conformidad con la libre autodeterminación y autonomía, dispuesta por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.",
+      "fracciones": [],
+      "texto_completo": "Artículo 60. Cuando alguna de las partes en el trámite de los mecanismos alternativos de solución de controversias, se identifique como integrante de los pueblos y comunidades indígenas y afromexicanas, se estará a sus usos y costumbres de conformidad con la libre autodeterminación y autonomía, dispuesta por el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

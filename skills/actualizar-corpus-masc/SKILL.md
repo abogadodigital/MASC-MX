@@ -1,0 +1,84 @@
+---
+name: actualizar-corpus-masc
+description: >
+  Esta skill debe usarse cuando el usuario pida "buscar tesis nuevas de
+  arbitraje o MASC", "actualiza el corpus con criterios recientes", "hay
+  jurisprudencia nueva sobre nulidad del laudo / Kompetenz-Kompetenz /
+  mediación / conciliación", o quiera verificar si la SCJN o tribunales
+  federales han emitido criterios aún no incluidos en el corpus empaquetado
+  con este plugin, o si la LGMASC, el Código de Comercio o el CNPCyF han
+  sido reformados después de las fechas de corte reflejadas en los corpus
+  de este plugin.
+metadata:
+  version: "0.1.0"
+  author: "Joel A. Gómez Treviño"
+---
+
+# Actualización del corpus de arbitraje y MASC (mantenimiento opcional)
+
+Verifica si existen tesis, jurisprudencias o reformas legislativas en
+materia de arbitraje y MASC posteriores a las fechas de corte de los
+corpus empaquetados con este plugin, y propone al usuario cómo
+incorporarlas.
+
+## Requisito: capacidad de búsqueda jurisprudencial y normativa
+
+Esta skill requiere que el entorno tenga disponible alguna herramienta o
+conector capaz de buscar en el Semanario Judicial de la Federación (tesis
+y jurisprudencia de la SCJN y tribunales federales) y, de forma deseable,
+en el Diario Oficial de la Federación (reformas legislativas a la LGMASC,
+el Código de Comercio o el CNPCyF). Antes de ejecutar una búsqueda,
+revisa qué herramientas de búsqueda jurídica oficial están disponibles en
+el entorno actual (herramientas de búsqueda general, o cualquier conector
+especializado en fuentes oficiales mexicanas que esté conectado a la
+sesión) y úsalas sin necesidad de nombrarlas ni identificarlas ante el
+usuario — lo relevante para el usuario es el resultado verificado, no la
+herramienta empleada para obtenerlo.
+
+## Si hay capacidad de búsqueda disponible
+
+1. Pregunta al usuario (o infiere del contexto) el tema sobre el que
+   quiere verificar novedades — puedes usar como referencia las 13
+   categorías del corpus de tesis (A-M) o cualquiera de los cuatro corpus
+   normativos de las tres leyes.
+2. Busca tesis y jurisprudencias posteriores a la fecha de corte
+   reflejada en `metadata.fecha_investigacion` de
+   `${CLAUDE_PLUGIN_ROOT}/skills/busqueda-criterios-masc/references/corpus_tesis_masc.json`
+   que no aparezcan ya en ese archivo (compara por `registro_digital`
+   para evitar duplicados).
+3. Verifica si existen reformas a la LGMASC, al Título Cuarto del Código
+   de Comercio o a las secciones pertinentes del CNPCyF posteriores a la
+   fecha de corte de los corpus normativos correspondientes.
+4. Presenta los hallazgos al usuario con su cita completa y liga oficial,
+   siguiendo el formato de
+   `${CLAUDE_PLUGIN_ROOT}/skills/citas-legales-masc/SKILL.md`, agrupados
+   por relevancia, identificando siempre de cuál de las tres leyes
+   proviene cada hallazgo normativo, y pregunta si desea que los
+   incorpores al corpus empaquetado correspondiente (edición del archivo
+   JSON) o si solo quiere la referencia para uso inmediato.
+5. Nunca modifiques un corpus sin la confirmación explícita del usuario.
+
+## Si NO hay capacidad de búsqueda disponible (degradación controlada)
+
+Informa al usuario, de forma breve y sin bloquear el resto del plugin,
+que esta skill de mantenimiento requiere una herramienta de búsqueda
+jurisprudencial o normativa oficial que no está disponible en este
+entorno, y ofrece alternativas:
+
+- Sugerir que el usuario realice la búsqueda manualmente en
+  https://sjf2.scjn.gob.mx (SCJN) y https://www.dof.gob.mx (DOF).
+- Continuar usando el resto de las skills del plugin con el corpus
+  empaquetado actual, aclarando sus fechas de corte.
+
+No intentes buscar en la web abierta genérica como sustituto de una fuente
+jurisprudencial o normativa oficial: los resultados de una búsqueda web
+genérica no sustituyen la fuente primaria y pueden inducir a error en
+materia legal.
+
+## Límites
+
+- Esta skill es de mantenimiento opcional y no forma parte del flujo
+  principal de consulta, tramitación, análisis de riesgo, redacción,
+  entrenamiento o docencia del plugin.
+- Cualquier criterio o reforma que se proponga incorporar debe citarse con
+  su fuente oficial completa antes de agregarse al corpus.

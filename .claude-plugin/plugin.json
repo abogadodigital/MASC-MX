@@ -1,0 +1,24 @@
+{
+  "name": "masc-mx",
+  "version": "0.1.0",
+  "description": "Plugin de mecanismos alternativos de solución de controversias (MASC) y arbitraje en México: consulta la Ley General de MASC, el Código de Comercio (Título Cuarto, Del Arbitraje Comercial) y el Código Nacional de Procedimientos Civiles y Familiares (Sección Tercera y Título Tercero), distingue cuál de las tres leyes aplica a cada caso, busca y cita 78 tesis/jurisprudencia de la SCJN y tribunales federales, ayuda a tramitar y redactar convenios y escritos, evalúa riesgos de sanción y nulidad de laudo, ofrece asesoría estratégica de negociación, simula escenarios de práctica y genera material docente.",
+  "author": {
+    "name": "Joel A. Gómez Treviño"
+  },
+  "homepage": "https://github.com/abogadodigital/MASC-MX",
+  "repository": "https://github.com/abogadodigital/MASC-MX",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "MASC",
+    "mecanismos alternativos de solución de controversias",
+    "arbitraje",
+    "arbitraje comercial",
+    "mediación",
+    "conciliación",
+    "negociación",
+    "LGMASC",
+    "México",
+    "jurisprudencia",
+    "SCJN"
+  ]
+}
