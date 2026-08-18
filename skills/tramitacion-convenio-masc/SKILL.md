@@ -9,10 +9,14 @@ description: >
   jurídicos tiene el convenio, tiene fuerza de cosa juzgada", "cuánto dura
   el procedimiento de mediación o conciliación", "qué pasa si una parte no
   comparece al MASC", "qué dice el artículo [número, entre 61 y 138] de la
-  LGMASC", o de cualquier otra forma necesite diseñar, tramitar o
-  documentar un procedimiento de negociación, negociación colaborativa,
-  mediación o conciliación conforme a la LGMASC, incluyendo la redacción
-  del convenio resultante.
+  LGMASC", "hay ODR en México", "qué es la Solución de Controversias en
+  Línea", "puedo tramitar una mediación o conciliación en línea o por
+  medios electrónicos", "qué obligaciones tienen las plataformas o
+  administradoras de Sistemas en Línea", o de cualquier otra forma
+  necesite diseñar, tramitar o documentar un procedimiento de negociación,
+  negociación colaborativa, mediación o conciliación conforme a la LGMASC,
+  incluyendo la redacción del convenio resultante y el régimen especial de
+  Solución de Controversias en Línea (arts. 86-93).
 metadata:
   version: "0.1.0"
   author: "Joel A. Gómez Treviño"
@@ -75,6 +79,22 @@ Complementa cuando aplique con:
   de la incomparecencia, acciones preventivas durante el procedimiento,
   reglas de la comediación, y conclusión del procedimiento con o sin
   convenio.
+  - **Sección "De la Solución de Controversias en Línea" / ODR (arts.
+    86-93)**: régimen especial y autónomo para MASC tramitados por
+    tecnologías de la información (arts. 86 y 89), con definiciones
+    propias (art. 87), principios adicionales como el de pleno
+    conocimiento (art. 88), reglas de inicio (art. 90), derechos
+    reforzados de las partes (art. 91), obligaciones específicas de
+    personas facilitadoras, administradoras y proveedoras de Sistemas en
+    Línea (art. 92), y modalidades operativas: sesiones sincrónicas o
+    asincrónicas, con o sin intervención de persona facilitadora (art.
+    93). Complementa el principio general del art. 3 (mismo ordenamiento,
+    corpus de `consulta-lgmasc-marco-institucional`), pero es este bloque
+    de arts. 86-93, no el art. 3 por sí solo, el que desarrolla el
+    régimen sustantivo de la Solución de Controversias en Línea. Cítalo
+    expresamente cuando el usuario pregunte por ODR, MASC en línea o
+    solución de controversias en línea, aunque no use esos términos
+    exactos.
 - **Cap. VII, Del Convenio (arts. 94-114)**: requisitos de validez del
   convenio, su contenido mínimo, efectos jurídicos (incluida su fuerza
   ejecutiva/cosa juzgada cuando la ley lo prevé), formalización ante
